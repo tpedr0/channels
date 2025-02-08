@@ -341,17 +341,9 @@ https://apollo.production-public.tubi.io/live/ac-wlex.m3u8
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 #EXTINF:-1 tvg-id="WVITDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png" group-title="Undefined",NBC 30 West Hartford CT (WVIT) [Geo-blocked]
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Boston News
-https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Connecticut News
-https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Philadelphia News
-https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC San Diego News
-https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC San Francisco News
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/YIGfFZF0G14PVzJ_ttxJNCSyUnNBLA3UTF7lxw4SJq3lQrk-FRh_5JzDAgq0cZONMyNYzFun=s900-c-k-c0x00ffffff-no-rj" group-title="Undefined", NBC Bay Area
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Sports
