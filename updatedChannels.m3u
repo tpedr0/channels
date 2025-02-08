@@ -758,3 +758,48 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN USA HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/291856
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN MX
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/84090
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDNXTRA 6
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/110886
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDNXTRA 9
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/110889
+
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png",DISCOVERY CHANNEL HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/30076
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/5342678c1fa638de9bbfa78db0ddca42.png",DISCOVERY CIVILIZATION HD   *lt
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/30082
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/fcd8f69a6e6e13eac99d7278428610c8.png",DISCOVERY  H&H  SD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/30084
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png",DISCOVERY SCIENCE SD   *lt
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31047
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png",DISCOVERY SCIENCE HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31048
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png",INVESTIGATION DISCOVERY HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31049
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png",DISCOVERY WORLD LAT HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31050
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png",DISCOVERY FAMILIA
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31053
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png",DISCOVERY THEATER SD   *lt
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/110775
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png",DISCOVERY TLC HD.
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/110781
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png",DISCOVERY THEATER
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31052
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png",DISCOVERY H&H NORTE
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/31064
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png",DISCOVERY CHANNEL
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/287610
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png",DISCOVERY WORLD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/287611
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png",INVESTIGATION DISCOVERY
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/287612
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png",DISCOVERY H&H SUR
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/287616
