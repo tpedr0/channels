@@ -205,12 +205,8 @@ https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
 #EXTINF:-1 tvg-id="TVMas.mx" tvg-name="TVMás (720p)" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="Undefined",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 tvg-id="TUDNUSA1" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN USA
-https://yhjkrf.site/chunklist/hlsch33.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Deportes" tvg-logo="" group-title="Undefined",ESPN Deportes
 https://v17.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8?token=1YcyMe0caSGwQdlbbaC42Q&expires=1739001175&user_id=M3kwMzRRNDFJTlZVS1FEYlZVWjR1aWpJdFJEMFRNbDk5cm11Z2c5Zw==
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN USA HD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN USA HD
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/291856
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN MX" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN MX
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/84090
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNXTRA 6" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDNXTRA 6
@@ -429,8 +425,6 @@ https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: AYM SPORTS" tvg-logo="" group-title="Bics DEPORTES",MX: AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: AYM SPORTS" tvg-logo="" group-title="Bics DEPORTES",MX: AYM SPORTS
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY LA LIGA" tvg-logo="" group-title="Bics DEPORTES",SKY LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="" group-title="Bics DEPORTES",FOX DEPORTES
@@ -833,8 +827,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/84120
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/767427
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 3" tvg-logo="http://visualservice.xyz:80/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="FOX SPORTS",FOX SPORTS 3
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/22889
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM 2" tvg-logo="http://visualservice.xyz:80/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="FOX SPORTS",FOX SPORTS PREMIUM 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/22890
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://visualservice.xyz:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="FOX SPORTS",FOX SPORTS PREMIUM
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/22892
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="http://visualservice.xyz:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="FOX SPORTS",FOX DEPORTES
@@ -863,8 +855,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/124527
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/164531
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="FOX SPORTS",FOX DEPORTES
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/275734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/04/26/fox-sports-premium-cumplir-mes.jpg" group-title="FOX SPORTS",FOX SPORTS PREMIUM
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/277666
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FOX SPORTS",FOX SPORTS 2
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/288101
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FOX SPORTS",FOX SPORTS 2
@@ -899,18 +889,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/31027
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31028
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | STUDIO UNIVERSAL FHD" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="PREMIUM LATINO",LAT | STUDIO UNIVERSAL FHD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/299265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/299266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/299283
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/311477
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 2" tvg-logo="" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440842
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja5LdxHgdQUJGBVnWHISRyIGRjIDfnCnyTtYZQPKT6KrT7yrNp9JG9wIXtB_igyjpx2Akn776mw4zARDrb6RG6w.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440843
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja5LdxHgdQUJGBVnWHISRyIGRjIDfnCnyTtYZQPKT6KrT7yrNp9JG9wIXtB_igyjpx2Akn776mw4zARDrb6RG6w.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/440844
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 3" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKRIRGLROGZUmEMEPfnqqLHzyRgD14gVb32KreSiNxfL7m7DI2WgFIwzmHnRmtZdqY.png" group-title="PREMIUM SATELITE",SAT | ESPN 3
@@ -921,14 +899,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/440846
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/440847
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 1" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSZw0_3R_fNvtxttr325N88.png" group-title="PREMIUM SATELITE",SAT | ESPN 1
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/440933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsQ-oNEXdHeQv20zQRZeIhNQ.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440934
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 2" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsa5VfC1L68fPvdaxFUx1M9g.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 2" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsa5VfC1L68fPvdaxFUx1M9g.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsdZoCjARfSc6wJsOOXkRBbs.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440991
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSZw0_3R_fNvtxttr325N88.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/440992
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAT | ESPN 3" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsc-z5qFvdfJIx1hqp8IIaqM.png" group-title="PREMIUM SATELITE",SAT | ESPN 3
