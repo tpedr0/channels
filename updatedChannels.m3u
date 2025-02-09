@@ -377,7 +377,7 @@ https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network East
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="",Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
