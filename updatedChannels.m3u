@@ -284,9 +284,10 @@ https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 #EXTINF:-1 tvg-id="KIRODT1.us" tvg-name="KIRO-DT1 (1080p)" tvg-logo="https://i.imgur.com/suvT0TN.png" group-title="Local News",KIRO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="WTHRDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",WTHR-DT1 (1080p)
 https://livevideo01.wthr.com/hls/live/2013835/elvs/live.m3u8
+
+
 #EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Entertainment",Showtime East
