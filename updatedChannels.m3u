@@ -1,643 +1,643 @@
 #EXTM3U
 ###LOCAL NEWS###
-#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVI ABC 6 News (Philadelphia PA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WPVI ABC 6 News (Philadelphia PA) (720p)
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVI ABC 6 News (Philadelphia PA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WPVI ABC 6 News (Philadelphia PA) (720p)
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WJBKDT1.us" tvg-name="FOX 2 Detroit MI (WJBK) (720p)" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="",FOX 2 Detroit MI (WJBK) (720p)
+#EXTINF:-1 tvg-id="WJBKDT1.us" tvg-name="FOX 2 Detroit MI (WJBK) (720p)" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="Local News",FOX 2 Detroit MI (WJBK) (720p)
 https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
-#EXTINF:-1 tvg-id="WAGADT1.us" tvg-name="FOX 5 Atlanta GA (WAGA-TV) (720p)" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="",FOX 5 Atlanta GA (WAGA-TV) (720p)
+#EXTINF:-1 tvg-id="WAGADT1.us" tvg-name="FOX 5 Atlanta GA (WAGA-TV) (720p)" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="Local News",FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-#EXTINF:-1 tvg-id="WMTWDT1.us" tvg-name="ABC 8 Portland ME (WMTW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 8 Portland ME (WMTW) (720p)
+#EXTINF:-1 tvg-id="WMTWDT1.us" tvg-name="ABC 8 Portland ME (WMTW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 8 Portland ME (WMTW) (720p)
 https://apollo.production-public.tubi.io/live/ac-wmtw.m3u8
-#EXTINF:-1 tvg-id="WAPTDT1.us" tvg-name="ABC 16 Jackson MS (WAPT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 16 Jackson MS (WAPT) (720p)
+#EXTINF:-1 tvg-id="WAPTDT1.us" tvg-name="ABC 16 Jackson MS (WAPT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 16 Jackson MS (WAPT) (720p)
 https://apollo.production-public.tubi.io/live/ac-wapt.m3u8
-#EXTINF:-1 tvg-id="WJCLDT1.us" tvg-name="ABC 22 Savannah GA (WJCL) (720p)" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="",ABC 22 Savannah GA (WJCL) (720p)
+#EXTINF:-1 tvg-id="WJCLDT1.us" tvg-name="ABC 22 Savannah GA (WJCL) (720p)" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="Local News",ABC 22 Savannah GA (WJCL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
-#EXTINF:-1 tvg-id="WPBFDT1.us" tvg-name="ABC 25 West Palm Beach FL (WPBF) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 25 West Palm Beach FL (WPBF) (720p)
+#EXTINF:-1 tvg-id="WPBFDT1.us" tvg-name="ABC 25 West Palm Beach FL (WPBF) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 25 West Palm Beach FL (WPBF) (720p)
 https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="",CBS News 24/7
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="Local News",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="",CBS News Baltimore
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="Local News",CBS News Baltimore
 https://dai.google.com/linear/hls/pa/event/TMUt418sQMeu1QtneYJ9ag/stream/7ce292c3-a704-40a7-82d3-f99db889f372:MRN2/variant/1b00b60a906d6085a2f3ed7af8ac7d26/bandwidth/3227596.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-name="CBS News Bay Area" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="",CBS News Bay Area
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-name="CBS News Bay Area" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="Local News",CBS News Bay Area
 https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/061edd33-29b8-4554-925b-d682c77429a9:MRN2/variant/f05458977b7d62af9a331d9782237831/bandwidth/3073400.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-name="CBS News Boston" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="",CBS News Boston
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-name="CBS News Boston" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="Local News",CBS News Boston
 https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/d0e938ab-6de0-4ce8-9bdf-a505712a5383:MRN2/variant/1036ba957a42558b9c30616c1b9b0efa/bandwidth/2988480.m3u8
-#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-name="CBS News Chicago" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="",CBS News Chicago
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-name="CBS News Chicago" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="Local News",CBS News Chicago
 https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/4c1988eb-5ec3-4f93-841d-cf679e901e4b:MRN2/variant/0a5b7d713cf383517ab3b0a30c17a1f4/bandwidth/3072960.m3u8
-#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-name="CBS News Colorado" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="",CBS News Colorado
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-name="CBS News Colorado" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="Local News",CBS News Colorado
 https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/1558abb4-ea06-4140-92a8-3c58f28662dc:MRN2/variant/6cd1215d4aa2006d3d3288d4e02a46f4/bandwidth/3072960.m3u8
-#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-name="CBS News Detroit" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="",CBS News Detroit
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-name="CBS News Detroit" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="Local News",CBS News Detroit
 https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/5120a7d5-3274-4015-bf16-6e88606122e4:MRN2/variant/a37fe4465b237aa74747ab49a4192e9e/bandwidth/3073250.m3u8
-#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-name="CBS News Los Angeles" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="",CBS News Los Angeles
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-name="CBS News Los Angeles" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="Local News",CBS News Los Angeles
 https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/d1cddcc2-3abc-4485-914d-f23e957970f0:MRN2/variant/8896482e6fa701fdc71a89c042edbd3b/bandwidth/3072960.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-name="CBS News Miami" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="",CBS News Miami
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-name="CBS News Miami" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="Local News",CBS News Miami
 https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/4e489c3c-be48-4867-9669-7a6df2a81f05:MRN2/variant/14650234fff52256f9e64575426e6005/bandwidth/3150312.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="",CBS News Minnesota
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="Local News",CBS News Minnesota
 https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/c8574cc9-1f1a-4abc-bb95-e75b2da0622f:MRN2/variant/99174a73d80602c69b9eed48af82ce91/bandwidth/3073435.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="",CBS News New York
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="Local News",CBS News New York
 https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/31166997-b25d-48a1-a78f-7fa0d77e2007:MRN2/variant/0849d728086ff6b756408190899fffb5/bandwidth/3073743.m3u8
-#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-name="CBS News Philadelphia" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="",CBS News Philadelphia
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-name="CBS News Philadelphia" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="Local News",CBS News Philadelphia
 https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/b146ffcd-dc50-4cdc-9ccd-249c55de4a79:MRN2/variant/23cf7f91b6721802be96dba461423cc8/bandwidth/3072889.m3u8
-#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-name="CBS News Pittsburgh" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="",CBS News Pittsburgh
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-name="CBS News Pittsburgh" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="Local News",CBS News Pittsburgh
 https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/680fcfdd-8a37-40cc-9812-9916365f9971:MRN2/variant/1f9ff3f028857ef24cab61d89456096f/bandwidth/3072858.m3u8
-#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-name="CBS News Sacramento" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="",CBS News Sacramento
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-name="CBS News Sacramento" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="Local News",CBS News Sacramento
 https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/49643b82-9d75-44a3-a6af-82a05aa5e0c4:MRN2/variant/ddc9e79d64684c662a8a64049d446d41/bandwidth/3258299.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX Live Now [Geo-blocked]" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="",FOX Live Now [Geo-blocked]
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX Live Now [Geo-blocked]" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Local News",FOX Live Now [Geo-blocked]
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (144p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="",Fox News Channel (144p)
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (144p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Local News",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="WESHDT1.us" tvg-name="NBC 2 Orlando FL (WESH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 2 Orlando FL (WESH) (720p)
+#EXTINF:-1 tvg-id="WESHDT1.us" tvg-name="NBC 2 Orlando FL (WESH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 2 Orlando FL (WESH) (720p)
 https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
-#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-name="NBC 5 Plattsburgh NY (WPTZ) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 5 Plattsburgh NY (WPTZ) (720p)
+#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-name="NBC 5 Plattsburgh NY (WPTZ) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://apollo.production-public.tubi.io/live/ac-wptz.m3u8
-#EXTINF:-1 tvg-id="WGALDT1.us" tvg-name="NBC 8 Lancaster PA (WGAL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 8 Lancaster PA (WGAL) (720p)
+#EXTINF:-1 tvg-id="WGALDT1.us" tvg-name="NBC 8 Lancaster PA (WGAL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 8 Lancaster PA (WGAL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wgal.m3u8
-#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-name="NBC 12 Winston-Salem NC (WXII) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 12 Winston-Salem NC (WXII) (720p)
+#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-name="NBC 12 Winston-Salem NC (WXII) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 12 Winston-Salem NC (WXII) (720p)
 https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
-#EXTINF:-1 tvg-id="WQADDT1.us" tvg-name="WQAD-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WQAD-DT1 (1080p)
+#EXTINF:-1 tvg-id="WQADDT1.us" tvg-name="WQAD-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WQAD-DT1 (1080p)
 https://livevideo01.wqad.com/hls/live/2011657/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-name="WSOC-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WSOC-DT1 (1080p)
+#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-name="WSOC-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVDDT1.us" tvg-name="WTVD ABC 11 News (Raleigh-Durham NC) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WTVD ABC 11 News (Raleigh-Durham NC) (720p)
+#EXTINF:-1 tvg-id="WTVDDT1.us" tvg-name="WTVD ABC 11 News (Raleigh-Durham NC) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WTVD ABC 11 News (Raleigh-Durham NC) (720p)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WTVQDT1.us" tvg-name="WTVQ ABC 36 News (Lexington KY) (720p)" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="",WTVQ ABC 36 News (Lexington KY) (720p)
+#EXTINF:-1 tvg-id="WTVQDT1.us" tvg-name="WTVQ ABC 36 News (Lexington KY) (720p)" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="Local News",WTVQ ABC 36 News (Lexington KY) (720p)
 https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
-#EXTINF:-1 tvg-id="WBBJDT1.us" tvg-name="WBBJ (Jackson TN) (432p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WBBJ (Jackson TN) (432p)
+#EXTINF:-1 tvg-id="WBBJDT1.us" tvg-name="WBBJ (Jackson TN) (432p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WBBJ (Jackson TN) (432p)
 https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
-#EXTINF:-1 tvg-id="WGRZDT1.us" tvg-name="WGRZ-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png" group-title="",WGRZ-DT1 (1080p)
+#EXTINF:-1 tvg-id="WGRZDT1.us" tvg-name="WGRZ-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png" group-title="Local News",WGRZ-DT1 (1080p)
 https://livevideo01.wgrz.com/hls/live/2016286/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WHASDT1.us" tvg-name="WHAS-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WHAS-DT1 (1080p)
+#EXTINF:-1 tvg-id="WHASDT1.us" tvg-name="WHAS-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WHAS-DT1 (1080p)
 https://livevideo01.whas11.com/hls/live/2016284/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WJXXDT1.us" tvg-name="WJXX-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WJXX-DT1 (1080p)
+#EXTINF:-1 tvg-id="WJXXDT1.us" tvg-name="WJXX-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WJXX-DT1 (1080p)
 https://livevideo01.firstcoastnews.com/hls/live/2014550/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WLSDT1.us" tvg-name="WLS ABC 7 News (Chicago IL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WLS ABC 7 News (Chicago IL) (720p)
+#EXTINF:-1 tvg-id="WLSDT1.us" tvg-name="WLS ABC 7 News (Chicago IL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WLS ABC 7 News (Chicago IL) (720p)
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WNEPDT1.us" tvg-name="WNEP-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WNEP-DT1 (1080p)
+#EXTINF:-1 tvg-id="WNEPDT1.us" tvg-name="WNEP-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WNEP-DT1 (1080p)
 https://livevideo01.wnep.com/hls/live/2011655/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WOIDT1.us" tvg-name="WOI-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",WOI-DT1 (1080p)
+#EXTINF:-1 tvg-id="WOIDT1.us" tvg-name="WOI-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WOI-DT1 (1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WXXVDT1.us" tvg-name="WXXV-TV News (Biloxi MS) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",WXXV-TV News (Biloxi MS) (720p)
+#EXTINF:-1 tvg-id="WXXVDT1.us" tvg-name="WXXV-TV News (Biloxi MS) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",WXXV-TV News (Biloxi MS) (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX 5 New York NY (WNYW) (720p)" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="",FOX 5 New York NY (WNYW) (720p)
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX 5 New York NY (WNYW) (720p)" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Local News",FOX 5 New York NY (WNYW) (720p)
 https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
-#EXTINF:-1 tvg-id="WTTGDT1.us" tvg-name="FOX 5 Washington DC (WTTG) (720p)" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="",FOX 5 Washington DC (WTTG) (720p)
+#EXTINF:-1 tvg-id="WTTGDT1.us" tvg-name="FOX 5 Washington DC (WTTG) (720p)" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="Local News",FOX 5 Washington DC (WTTG) (720p)
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
-#EXTINF:-1 tvg-id="WITIDT1.us" tvg-name="FOX 6 Milwaukee WI (WITI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png" group-title="",FOX 6 Milwaukee WI (WITI) (720p)
+#EXTINF:-1 tvg-id="WITIDT1.us" tvg-name="FOX 6 Milwaukee WI (WITI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png" group-title="Local News",FOX 6 Milwaukee WI (WITI) (720p)
 https://apollo.production-public.tubi.io/live/ac-witi.m3u8
-#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-name="FOX 13 Tampa Bay FL (WTVT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 13 Tampa Bay FL (WTVT) (720p)
+#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-name="FOX 13 Tampa Bay FL (WTVT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 13 Tampa Bay FL (WTVT) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8
-#EXTINF:-1 tvg-id="WXMIDT1.us" tvg-name="FOX 17 Grand Rapids MI (WXMI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 17 Grand Rapids MI (WXMI) (720p)
+#EXTINF:-1 tvg-id="WXMIDT1.us" tvg-name="FOX 17 Grand Rapids MI (WXMI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 17 Grand Rapids MI (WXMI) (720p)
 https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
-#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="Fox 25 Boston (WFXT-TV) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="",Fox 25 Boston (WFXT-TV) [Geo-blocked]
+#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="Fox 25 Boston (WFXT-TV) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Local News",Fox 25 Boston (WFXT-TV) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="FOX 29 Philadelphia PA (WTXF-TV) (720p)" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="",FOX 29 Philadelphia PA (WTXF-TV) (720p)
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="FOX 29 Philadelphia PA (WTXF-TV) (720p)" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="Local News",FOX 29 Philadelphia PA (WTXF-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
-#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-name="FOX 32 Chicago IL (WFLD) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 32 Chicago IL (WFLD) (720p)
+#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-name="FOX 32 Chicago IL (WFLD) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 32 Chicago IL (WFLD) (720p)
 https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
-#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-name="FOX 35 Orlando FL (WOFL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 35 Orlando FL (WOFL) (720p)
+#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-name="FOX 35 Orlando FL (WOFL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 35 Orlando FL (WOFL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wofl.m3u8
-#EXTINF:-1 tvg-id="WSYMDT1.us" tvg-name="FOX 47 Lansing MI (WSYM) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 47 Lansing MI (WSYM) (720p)
+#EXTINF:-1 tvg-id="WSYMDT1.us" tvg-name="FOX 47 Lansing MI (WSYM) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 47 Lansing MI (WSYM) (720p)
 https://apollo.production-public.tubi.io/live/ac-wsym.m3u8
-#EXTINF:-1 tvg-id="WZDXDT1.us" tvg-name="Fox 54.1 Huntsville" tvg-logo="https://i.imgur.com/E8nKknc.png" group-title="",Fox 54.1 Huntsville
+#EXTINF:-1 tvg-id="WZDXDT1.us" tvg-name="Fox 54.1 Huntsville" tvg-logo="https://i.imgur.com/E8nKknc.png" group-title="Local News",Fox 54.1 Huntsville
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WDAFDT1.us" tvg-name="WDAF-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/WDAF-TV_Fox4KC_logo.png" group-title="",WDAF-DT1 (720p)
+#EXTINF:-1 tvg-id="WDAFDT1.us" tvg-name="WDAF-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/WDAF-TV_Fox4KC_logo.png" group-title="Local News",WDAF-DT1 (720p)
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 tvg-id="WFTXDT1.us" tvg-name="WFTX News Fort Myers FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",WFTX News Fort Myers FL (720p)
+#EXTINF:-1 tvg-id="WFTXDT1.us" tvg-name="WFTX News Fort Myers FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-id="WEWSDT1.us" tvg-name="ABC 5 Cleveland OH (WEWS) (720p)" tvg-logo="https://i.imgur.com/sUonBr6.png" group-title="",ABC 5 Cleveland OH (WEWS) (720p)
+#EXTINF:-1 tvg-id="WEWSDT1.us" tvg-name="ABC 5 Cleveland OH (WEWS) (720p)" tvg-logo="https://i.imgur.com/sUonBr6.png" group-title="Local News",ABC 5 Cleveland OH (WEWS) (720p)
 https://apollo.production-public.tubi.io/live/ac-wews2.m3u8
-#EXTINF:-1 tvg-id="WRTVDT1.us" tvg-name="ABC 6 Indianapolis IN (WRTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 6 Indianapolis IN (WRTV) (720p)
+#EXTINF:-1 tvg-id="WRTVDT1.us" tvg-name="ABC 6 Indianapolis IN (WRTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 6 Indianapolis IN (WRTV) (720p)
 https://apollo.production-public.tubi.io/live/ac-wrtv.m3u8
-#EXTINF:-1 tvg-id="WKBWDT1.us" tvg-name="ABC 7 Buffalo NY (WKBW) (720p)" tvg-logo="https://i.imgur.com/dtzR3Y1.png" group-title="",ABC 7 Buffalo NY (WKBW) (720p)
+#EXTINF:-1 tvg-id="WKBWDT1.us" tvg-name="ABC 7 Buffalo NY (WKBW) (720p)" tvg-logo="https://i.imgur.com/dtzR3Y1.png" group-title="Local News",ABC 7 Buffalo NY (WKBW) (720p)
 https://apollo.production-public.tubi.io/live/ac-wkbw.m3u8
-#EXTINF:-1 tvg-id="WXYZDT1.us" tvg-name="ABC 7 Detroit MI (WXYZ) (720p)" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="",ABC 7 Detroit MI (WXYZ) (720p)
+#EXTINF:-1 tvg-id="WXYZDT1.us" tvg-name="ABC 7 Detroit MI (WXYZ) (720p)" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="Local News",ABC 7 Detroit MI (WXYZ) (720p)
 https://apollo.production-public.tubi.io/live/ac-wxyz2.m3u8
-#EXTINF:-1 tvg-id="WFAADT1.us" tvg-name="ABC 8 Dallas TX (WFAA) (1080p)" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="",ABC 8 Dallas TX (WFAA) (1080p)
+#EXTINF:-1 tvg-id="WFAADT1.us" tvg-name="ABC 8 Dallas TX (WFAA) (1080p)" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="Local News",ABC 8 Dallas TX (WFAA) (1080p)
 https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WCPODT1.us" tvg-name="ABC 9 Cincinnati OH (WCPO) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png" group-title="",ABC 9 Cincinnati OH (WCPO) (720p)
+#EXTINF:-1 tvg-id="WCPODT1.us" tvg-name="ABC 9 Cincinnati OH (WCPO) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png" group-title="Local News",ABC 9 Cincinnati OH (WCPO) (720p)
 https://apollo.production-public.tubi.io/live/ac-wcpo.m3u8
-#EXTINF:-1 tvg-id="WMURDT1.us" tvg-name="ABC 9 Manchester NH (WMUR-TV) (720p)" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="",ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1 tvg-id="WMURDT1.us" tvg-name="ABC 9 Manchester NH (WMUR-TV) (720p)" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="Local News",ABC 9 Manchester NH (WMUR-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-wmur.m3u8
-#EXTINF:-1 tvg-id="WFTVDT1.us" tvg-name="ABC 9 Orlando FL (WFTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 9 Orlando FL (WFTV) (720p)
+#EXTINF:-1 tvg-id="WFTVDT1.us" tvg-name="ABC 9 Orlando FL (WFTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 9 Orlando FL (WFTV) (720p)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WISNDT1.us" tvg-name="ABC 12 Milwaukee WI (WISN) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 12 Milwaukee WI (WISN) (720p)
+#EXTINF:-1 tvg-id="WISNDT1.us" tvg-name="ABC 12 Milwaukee WI (WISN) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 12 Milwaukee WI (WISN) (720p)
 https://apollo.production-public.tubi.io/live/ac-wisn.m3u8
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-name="ABC 25 Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 25 Columbia
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-name="ABC 25 Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 25 Columbia
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WTXLDT1.us" tvg-name="ABC 27 Tallahassee FL (WTXL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 27 Tallahassee FL (WTXL) (720p)
+#EXTINF:-1 tvg-id="WTXLDT1.us" tvg-name="ABC 27 Tallahassee FL (WTXL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 27 Tallahassee FL (WTXL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtxl.m3u8
-#EXTINF:-1 tvg-id="WFTSDT1.us" tvg-name="ABC 28 Tampa Bay FL (WFTS) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 28 Tampa Bay FL (WFTS) (720p)
+#EXTINF:-1 tvg-id="WFTSDT1.us" tvg-name="ABC 28 Tampa Bay FL (WFTS) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 28 Tampa Bay FL (WFTS) (720p)
 https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8
-#EXTINF:-1 tvg-id="WPLGDT1.us" tvg-name="ABC (WPLG-DT1) Miami FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC (WPLG-DT1) Miami FL (720p)
+#EXTINF:-1 tvg-id="WPLGDT1.us" tvg-name="ABC (WPLG-DT1) Miami FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC News New York NY (WABC-TV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="",ABC News New York NY (WABC-TV) (720p)
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC News New York NY (WABC-TV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Local News",ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WMARDT1.us" tvg-name="ABC 2 Baltimore MD (WMAR) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="",ABC 2 Baltimore MD (WMAR) (720p)
+#EXTINF:-1 tvg-id="WMARDT1.us" tvg-name="ABC 2 Baltimore MD (WMAR) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="Local News",ABC 2 Baltimore MD (WMAR) (720p)
 https://apollo.production-public.tubi.io/live/ac-wmar.m3u8
-#EXTINF:-1 tvg-id="WTAEDT1.us" tvg-name="ABC 4 Pittsburg PA (WTAE) (720p)" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="",ABC 4 Pittsburg PA (WTAE) (720p)
+#EXTINF:-1 tvg-id="WTAEDT1.us" tvg-name="ABC 4 Pittsburg PA (WTAE) (720p)" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="Local News",ABC 4 Pittsburg PA (WTAE) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
-#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-name="ABC 5 Boston MA (WCVB) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="",ABC 5 Boston MA (WCVB) (720p)
+#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-name="ABC 5 Boston MA (WCVB) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Local News",ABC 5 Boston MA (WCVB) (720p)
 https://apollo.production-public.tubi.io/live/ac-wcvb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS News Texas (720p)" tvg-logo="https://i.imgur.com/PWXK33U.png" group-title="",CBS News Texas (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS News Texas (720p)" tvg-logo="https://i.imgur.com/PWXK33U.png" group-title="Local News",CBS News Texas (720p)
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 tvg-id="WTICDT1.us" tvg-name="Fox 61 News Hartford CT (WTIC-TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/512px-WTIC_%282020%29.svg.png" group-title="",Fox 61 News Hartford CT (WTIC-TV)
+#EXTINF:-1 tvg-id="WTICDT1.us" tvg-name="Fox 61 News Hartford CT (WTIC-TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/512px-WTIC_%282020%29.svg.png" group-title="Local News",Fox 61 News Hartford CT (WTIC-TV)
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WYFFDT1.us" tvg-name="NBC 4 Greenville SC (WYFF) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 4 Greenville SC (WYFF) (720p)
+#EXTINF:-1 tvg-id="WYFFDT1.us" tvg-name="NBC 4 Greenville SC (WYFF) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 4 Greenville SC (WYFF) (720p)
 https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 New York NY (WNBC) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="",NBC 4 New York NY (WNBC) [Geo-blocked]
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 New York NY (WNBC) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Local News",NBC 4 New York NY (WNBC) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WRCDT1.us" tvg-name="NBC 4 Washington DC (WRC) [Geo-blocked]" tvg-logo="https://i.imgur.com/7JpMArM.png" group-title="",NBC 4 Washington DC (WRC) [Geo-blocked]
+#EXTINF:-1 tvg-id="WRCDT1.us" tvg-name="NBC 4 Washington DC (WRC) [Geo-blocked]" tvg-logo="https://i.imgur.com/7JpMArM.png" group-title="Local News",NBC 4 Washington DC (WRC) [Geo-blocked]
 https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="NBC 5 Chicago IL (WMAQ) [Geo-blocked]" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="",NBC 5 Chicago IL (WMAQ) [Geo-blocked]
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="NBC 5 Chicago IL (WMAQ) [Geo-blocked]" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="Local News",NBC 5 Chicago IL (WMAQ) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WLWTDT1.us" tvg-name="NBC 5 Cincinnati OH (WLWT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 5 Cincinnati OH (WLWT) (720p)
+#EXTINF:-1 tvg-id="WLWTDT1.us" tvg-name="NBC 5 Cincinnati OH (WLWT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Cincinnati OH (WLWT) (720p)
 https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us" tvg-name="NBC 6 Miami FL (WTVJ) [Geo-blocked]" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="",NBC 6 Miami FL (WTVJ) [Geo-blocked]
+#EXTINF:-1 tvg-id="WTVJDT1.us" tvg-name="NBC 6 Miami FL (WTVJ) [Geo-blocked]" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="Local News",NBC 6 Miami FL (WTVJ) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WDSUDT1.us" tvg-name="NBC 6 New Orleans LA (WDSU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 6 New Orleans LA (WDSU) (720p)
+#EXTINF:-1 tvg-id="WDSUDT1.us" tvg-name="NBC 6 New Orleans LA (WDSU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 6 New Orleans LA (WDSU) (720p)
 https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
-#EXTINF:-1 tvg-id="WLIODT1.us" tvg-name="NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WLIODT1.us" tvg-name="NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 https://live.field59.com/wlio/wlio1/playlist.m3u8
-#EXTINF:-1 tvg-id="WBTSCD1.us" tvg-name="NBC 10 Boston NH (WBTS) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png" group-title="",NBC 10 Boston NH (WBTS) [Geo-blocked]
+#EXTINF:-1 tvg-id="WBTSCD1.us" tvg-name="NBC 10 Boston NH (WBTS) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png" group-title="Local News",NBC 10 Boston NH (WBTS) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="NBC 10 Philadelphia PA (WCAU) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="",NBC 10 Philadelphia PA (WCAU) [Geo-blocked]
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="NBC 10 Philadelphia PA (WCAU) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="Local News",NBC 10 Philadelphia PA (WCAU) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WJARDT1.us" tvg-name="NBC 10 Providence MA (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png" group-title="",NBC 10 Providence MA (1080p)
+#EXTINF:-1 tvg-id="WJARDT1.us" tvg-name="NBC 10 Providence MA (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png" group-title="Local News",NBC 10 Providence MA (1080p)
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
-#EXTINF:-1 tvg-id="WBALDT1.us" tvg-name="NBC 11 Baltimore MD (WBAL) (720p)" tvg-logo="https://yt3.googleusercontent.com/3fxFaSXmw7UP55y91q0DaNzsuV1Tmm8wxvtPnbwajkAWhJCWK1qWhnkTi67FRwtQO-LamSGy=s900-c-k-c0x00ffffff-no-rj" group-title="",NBC 11 Baltimore MD (WBAL) (720p)
+#EXTINF:-1 tvg-id="WBALDT1.us" tvg-name="NBC 11 Baltimore MD (WBAL) (720p)" tvg-logo="https://yt3.googleusercontent.com/3fxFaSXmw7UP55y91q0DaNzsuV1Tmm8wxvtPnbwajkAWhJCWK1qWhnkTi67FRwtQO-LamSGy=s900-c-k-c0x00ffffff-no-rj" group-title="Local News",NBC 11 Baltimore MD (WBAL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wbal.m3u8
-#EXTINF:-1 tvg-id="WVTMDT1.us" tvg-name="NBC 13 Birmingham Al (WVTM) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 13 Birmingham Al (WVTM) (720p)
+#EXTINF:-1 tvg-id="WVTMDT1.us" tvg-name="NBC 13 Birmingham Al (WVTM) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 13 Birmingham Al (WVTM) (720p)
 https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8
-#EXTINF:-1 tvg-id="WLEXDT1.us" tvg-name="NBC 18 Lexington KY (WLEX) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 18 Lexington KY (WLEX) (720p)
+#EXTINF:-1 tvg-id="WLEXDT1.us" tvg-name="NBC 18 Lexington KY (WLEX) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 18 Lexington KY (WLEX) (720p)
 https://apollo.production-public.tubi.io/live/ac-wlex.m3u8
-#EXTINF:-1 tvg-id="WGBADT1.us" tvg-name="NBC 26 Green Bay WI (WGBA-DT1) (720p)" tvg-logo="https://i.imgur.com/bzgfmRL.png" group-title="",NBC 26 Green Bay WI (WGBA-DT1) (720p)
+#EXTINF:-1 tvg-id="WGBADT1.us" tvg-name="NBC 26 Green Bay WI (WGBA-DT1) (720p)" tvg-logo="https://i.imgur.com/bzgfmRL.png" group-title="Local News",NBC 26 Green Bay WI (WGBA-DT1) (720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 tvg-id="WVITDT1.us" tvg-name="NBC 30 West Hartford CT (WVIT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png" group-title="",NBC 30 West Hartford CT (WVIT) [Geo-blocked]
+#EXTINF:-1 tvg-id="WVITDT1.us" tvg-name="NBC 30 West Hartford CT (WVIT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png" group-title="Local News",NBC 30 West Hartford CT (WVIT) [Geo-blocked]
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KNTV" tvg-name="NBC Bay Area" tvg-logo="https://yt3.googleusercontent.com/YIGfFZF0G14PVzJ_ttxJNCSyUnNBLA3UTF7lxw4SJq3lQrk-FRh_5JzDAgq0cZONMyNYzFun=s900-c-k-c0x00ffffff-no-rj" group-title="",NBC Bay Area
+#EXTINF:-1 tvg-id="KNTV" tvg-name="NBC Bay Area" tvg-logo="https://yt3.googleusercontent.com/YIGfFZF0G14PVzJ_ttxJNCSyUnNBLA3UTF7lxw4SJq3lQrk-FRh_5JzDAgq0cZONMyNYzFun=s900-c-k-c0x00ffffff-no-rj" group-title="Local News",NBC Bay Area
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WPTVDT1.us" tvg-name="WPTV News West Palm Beach FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",WPTV News West Palm Beach FL (720p)
+#EXTINF:-1 tvg-id="WPTVDT1.us" tvg-name="WPTV News West Palm Beach FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",WPTV News West Palm Beach FL (720p)
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 tvg-id="WTHRDT1.us" tvg-name="WTHR-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",WTHR-DT1 (1080p)
-#EXTINF:-1 tvg-id="KERODT1.us" tvg-name="23 ABC Bakersfield CA (KERO) (720p)" tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="",23 ABC Bakersfield CA (KERO) (720p)
+#EXTINF:-1 tvg-id="WTHRDT1.us" tvg-name="WTHR-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",WTHR-DT1 (1080p)
+#EXTINF:-1 tvg-id="KERODT1.us" tvg-name="23 ABC Bakersfield CA (KERO) (720p)" tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="Local News",23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 tvg-id="KMBCDT1.us" tvg-name="KMBC-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/512px-KMBC_9_ABC.svg.png" group-title="",KMBC-DT1 (720p)
+#EXTINF:-1 tvg-id="KMBCDT1.us" tvg-name="KMBC-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/512px-KMBC_9_ABC.svg.png" group-title="Local News",KMBC-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-id="KMIZDT1.us" tvg-name="KMIZ-DT1 (720p)" tvg-logo="https://lh3.googleusercontent.com/dQe4NZjNphITtOJYib9UNnV8EaYqs8W39ZayXgYaaV19TThXqw92-V5wzW2LuBoCe1wsKs-2d3s=v1-rw-s400" group-title="",KMIZ-DT1 (720p)
+#EXTINF:-1 tvg-id="KMIZDT1.us" tvg-name="KMIZ-DT1 (720p)" tvg-logo="https://lh3.googleusercontent.com/dQe4NZjNphITtOJYib9UNnV8EaYqs8W39ZayXgYaaV19TThXqw92-V5wzW2LuBoCe1wsKs-2d3s=v1-rw-s400" group-title="Local News",KMIZ-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="KRDODT1.us" tvg-name="KRDO News Colorado Springs CO (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",KRDO News Colorado Springs CO (720p)
+#EXTINF:-1 tvg-id="KRDODT1.us" tvg-name="KRDO News Colorado Springs CO (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",KRDO News Colorado Springs CO (720p)
 https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
-#EXTINF:-1 tvg-id="KTRKDT1.us" tvg-name="KTRK TV ABC 13 News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",KTRK TV ABC 13 News (720p)
+#EXTINF:-1 tvg-id="KTRKDT1.us" tvg-name="KTRK TV ABC 13 News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",KTRK TV ABC 13 News (720p)
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:-1 tvg-id="KTVBDT1.us" tvg-name="KTVB-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",KTVB-DT1 (1080p)
+#EXTINF:-1 tvg-id="KTVBDT1.us" tvg-name="KTVB-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",KTVB-DT1 (1080p)
 https://livevideo01.ktvb.com/hls/live/2014542/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KTVODT1.us" tvg-name="KTVO-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",KTVO-DT1 (720p)
+#EXTINF:-1 tvg-id="KTVODT1.us" tvg-name="KTVO-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",KTVO-DT1 (720p)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 tvg-id="KVUEDT1.us" tvg-name="KVUE-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",KVUE-DT1 (1080p)
+#EXTINF:-1 tvg-id="KVUEDT1.us" tvg-name="KVUE-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",KVUE-DT1 (1080p)
 https://livevideo01.kvue.com/hls/live/2016282/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KXTVDT1.us" tvg-name="KXTV ABC 10 (Sacramento CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",KXTV ABC 10 (Sacramento CA)
+#EXTINF:-1 tvg-id="KXTVDT1.us" tvg-name="KXTV ABC 10 (Sacramento CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",KXTV ABC 10 (Sacramento CA)
 https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-name="FOX 2 San Francisco CA (KTVU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 2 San Francisco CA (KTVU) (720p)
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-name="FOX 2 San Francisco CA (KTVU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 2 San Francisco CA (KTVU) (720p)
 https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8
-#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-name="FOX 4 Dallas / Fort Worth TX (KDFW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-name="FOX 4 Dallas / Fort Worth TX (KDFW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
 https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8
-#EXTINF:-1 tvg-id="KTBCDT1.us" tvg-name="FOX 7 Austin TX (KTBC) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 7 Austin TX (KTBC) (720p)
+#EXTINF:-1 tvg-id="KTBCDT1.us" tvg-name="FOX 7 Austin TX (KTBC) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 7 Austin TX (KTBC) (720p)
 https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8
-#EXTINF:-1 tvg-id="KMSPDT1.us" tvg-name="FOX 9 ST Paul Minneapolis MN (KMSP) (720p)" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+#EXTINF:-1 tvg-id="KMSPDT1.us" tvg-name="FOX 9 ST Paul Minneapolis MN (KMSP) (720p)" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="Local News",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
 https://apollo.production-public.tubi.io/live/ac-kmsp.m3u8
-#EXTINF:-1 tvg-id="KSAZDT1.us" tvg-name="FOX 10 Phoenix AZ (KSAZ) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 10 Phoenix AZ (KSAZ) (720p)
+#EXTINF:-1 tvg-id="KSAZDT1.us" tvg-name="FOX 10 Phoenix AZ (KSAZ) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 10 Phoenix AZ (KSAZ) (720p)
 https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX 11 Los Angeles CA (KTTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 11 Los Angeles CA (KTTV) (720p)
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX 11 Los Angeles CA (KTTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 11 Los Angeles CA (KTTV) (720p)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
-#EXTINF:-1 tvg-id="KSTUDT1.us" tvg-name="FOX 13 Salt Lake City UT (KSTU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",FOX 13 Salt Lake City UT (KSTU) (720p)
+#EXTINF:-1 tvg-id="KSTUDT1.us" tvg-name="FOX 13 Salt Lake City UT (KSTU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 13 Salt Lake City UT (KSTU) (720p)
 https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
-#EXTINF:-1 tvg-id="KCPQDT1.us" tvg-name="FOX 13 Seattle WA (KCPQ) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="",FOX 13 Seattle WA (KCPQ) (720p)
+#EXTINF:-1 tvg-id="KCPQDT1.us" tvg-name="FOX 13 Seattle WA (KCPQ) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Local News",FOX 13 Seattle WA (KCPQ) (720p)
 https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
-#EXTINF:-1 tvg-id="KXVADT1.us" tvg-name="Fox 15 West Texas Abilene TX (KXVA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="",Fox 15 West Texas Abilene TX (KXVA)
+#EXTINF:-1 tvg-id="KXVADT1.us" tvg-name="Fox 15 West Texas Abilene TX (KXVA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",Fox 15 West Texas Abilene TX (KXVA)
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KBSIDT1.us" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KBSIDT1.us" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="Local News",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-name="FOX 26 Houston TX (KRIV) (720p)" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="",FOX 26 Houston TX (KRIV) (720p)
+#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-name="FOX 26 Houston TX (KRIV) (720p)" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="Local News",FOX 26 Houston TX (KRIV) (720p)
 https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
-#EXTINF:-1 tvg-id="KQFXLD1.us" tvg-name="KQFX-LD1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KQFX-LD_Logo.png" group-title="",KQFX-LD1 (720p)
+#EXTINF:-1 tvg-id="KQFXLD1.us" tvg-name="KQFX-LD1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KQFX-LD_Logo.png" group-title="Local News",KQFX-LD1 (720p)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 tvg-id="KOCODT1.us" tvg-name="ABC 5 Oklahoma City OK (KOCO) (720p)" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="",ABC 5 Oklahoma City OK (KOCO) (720p)
+#EXTINF:-1 tvg-id="KOCODT1.us" tvg-name="ABC 5 Oklahoma City OK (KOCO) (720p)" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="Local News",ABC 5 Oklahoma City OK (KOCO) (720p)
 https://apollo.production-public.tubi.io/live/ac-koco.m3u8
-#EXTINF:-1 tvg-id="KIVIDT1.us" tvg-name="ABC 6 Boise ID (KIVI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png" group-title="",ABC 6 Boise ID (KIVI) (720p)
+#EXTINF:-1 tvg-id="KIVIDT1.us" tvg-name="ABC 6 Boise ID (KIVI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png" group-title="Local News",ABC 6 Boise ID (KIVI) (720p)
 https://apollo.production-public.tubi.io/live/ac-kivi.m3u8
-#EXTINF:-1 tvg-id="KOATDT1.us" tvg-name="ABC 7 Albuquerque NM (KOAT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 7 Albuquerque NM (KOAT) (720p)
+#EXTINF:-1 tvg-id="KOATDT1.us" tvg-name="ABC 7 Albuquerque NM (KOAT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 7 Albuquerque NM (KOAT) (720p)
 https://apollo.production-public.tubi.io/live/ac-koat.m3u8
-#EXTINF:-1 tvg-id="KGODT1.us" tvg-name="ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)
+#EXTINF:-1 tvg-id="KGODT1.us" tvg-name="ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1 tvg-id="KMGHDT1.us" tvg-name="ABC 7 Denver CO (KMGH) (720p)" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="",ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1 tvg-id="KMGHDT1.us" tvg-name="ABC 7 Denver CO (KMGH) (720p)" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="Local News",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC 7 Los Angeles CA (KABC-TV) (720p)" tvg-logo="https://imgur.com/nKAUCLF.jpg" group-title="",ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC 7 Los Angeles CA (KABC-TV) (720p)" tvg-logo="https://imgur.com/nKAUCLF.jpg" group-title="Local News",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="KETVDT1.us" tvg-name="ABC 7 Omaha NE (KETV) (720p)" tvg-logo="https://i.imgur.com/CWZtYNi.png" group-title="",ABC 7 Omaha NE (KETV) (720p)
+#EXTINF:-1 tvg-id="KETVDT1.us" tvg-name="ABC 7 Omaha NE (KETV) (720p)" tvg-logo="https://i.imgur.com/CWZtYNi.png" group-title="Local News",ABC 7 Omaha NE (KETV) (720p)
 https://apollo.production-public.tubi.io/live/ac-ketv.m3u8
-#EXTINF:-1 tvg-id="KGUNDT1.us" tvg-name="ABC 9 Tucson AZ (KGUN) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 9 Tucson AZ (KGUN) (720p)
+#EXTINF:-1 tvg-id="KGUNDT1.us" tvg-name="ABC 9 Tucson AZ (KGUN) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 9 Tucson AZ (KGUN) (720p)
 https://apollo.production-public.tubi.io/live/ac-kgun.m3u8
-#EXTINF:-1 tvg-id="KGTVDT1.us" tvg-name="ABC 10 San Diego CA (KGTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 10 San Diego CA (KGTV) (720p)
+#EXTINF:-1 tvg-id="KGTVDT1.us" tvg-name="ABC 10 San Diego CA (KGTV) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 10 San Diego CA (KGTV) (720p)
 https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8
-#EXTINF:-1 tvg-id="KTNVDT1.us" tvg-name="ABC 13 Las Vegas NV (KTNV) (720p)" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="",ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTINF:-1 tvg-id="KTNVDT1.us" tvg-name="ABC 13 Las Vegas NV (KTNV) (720p)" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="Local News",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 tvg-id="KNXVDT1.us" tvg-name="ABC 15 Phoenix AZ (KNXV-TV) (720p)" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+#EXTINF:-1 tvg-id="KNXVDT1.us" tvg-name="ABC 15 Phoenix AZ (KNXV-TV) (720p)" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="Local News",ABC 15 Phoenix AZ (KNXV-TV) (720p)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 tvg-id="KXXVDT1.us" tvg-name="ABC 25 News Central Texas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 25 News Central Texas
+#EXTINF:-1 tvg-id="KXXVDT1.us" tvg-name="ABC 25 News Central Texas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 25 News Central Texas
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
-#EXTINF:-1 tvg-id="KFSNDT1.us" tvg-name="ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)
+#EXTINF:-1 tvg-id="KFSNDT1.us" tvg-name="ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
-#EXTINF:-1 tvg-id="KHBSDT1.us" tvg-name="ABC 40/29 Fort Smith AR (KHBS) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="",ABC 40/29 Fort Smith AR (KHBS) (720p)
+#EXTINF:-1 tvg-id="KHBSDT1.us" tvg-name="ABC 40/29 Fort Smith AR (KHBS) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",ABC 40/29 Fort Smith AR (KHBS) (720p)
 https://apollo.production-public.tubi.io/live/ac-khbs.m3u8
-#EXTINF:-1 tvg-id="KOMODT1.us" tvg-name="ABC 4 Seattle WA (KOMO-TV) (720p)" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="",ABC 4 Seattle WA (KOMO-TV) (720p)
+#EXTINF:-1 tvg-id="KOMODT1.us" tvg-name="ABC 4 Seattle WA (KOMO-TV) (720p)" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="Local News",ABC 4 Seattle WA (KOMO-TV) (720p)
 https://dai.google.com/linear/hls/pa/event/-tEgM-mTSDK8q7SxxJ6VYA/stream/ea279f97-c794-4c3a-83d1-4afdf50e3fa0:TUL/variant/cd2ed04682b99eaf0c2b3351f8a2b4b6/bandwidth/7729554.m3u8?CMCD=cid%3D%22-tEgM-mTSDK8q7SxxJ6VYA%22%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d1e8aeaf-e7b8-4d13-987a-90a9adbf1729%22%2Cst%3Dl
-#EXTINF:-1 tvg-id="KYOUDT2.us" tvg-name="KYOU-DT2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",KYOU-DT2 (720p)
+#EXTINF:-1 tvg-id="KYOUDT2.us" tvg-name="KYOU-DT2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",KYOU-DT2 (720p)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 tvg-id="KJRHDT1.us" tvg-name="NBC 2 Tulsa OK (KJRH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 2 Tulsa OK (KJRH) (720p)
+#EXTINF:-1 tvg-id="KJRHDT1.us" tvg-name="NBC 2 Tulsa OK (KJRH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 2 Tulsa OK (KJRH) (720p)
 https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
-#EXTINF:-1 tvg-id="KCRADT1.us" tvg-name="NBC 3 Sacramento CA (KCRA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 3 Sacramento CA (KCRA) (720p)
+#EXTINF:-1 tvg-id="KCRADT1.us" tvg-name="NBC 3 Sacramento CA (KCRA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 3 Sacramento CA (KCRA) (720p)
 https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC 4 Los Angeles CA (KNBC) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC 4 Los Angeles CA (KNBC) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KOAADT1.us" tvg-name="NBC 5 Colorado Springs CO (KOAA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 5 Colorado Springs CO (KOAA) (720p)
+#EXTINF:-1 tvg-id="KOAADT1.us" tvg-name="NBC 5 Colorado Springs CO (KOAA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Colorado Springs CO (KOAA) (720p)
 https://apollo.production-public.tubi.io/live/ac-koaa.m3u8
-#EXTINF:-1 tvg-id="KXASDT1.us" tvg-name="NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]
+#EXTINF:-1 tvg-id="KXASDT1.us" tvg-name="NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]
 https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KINGDT1.us" tvg-name="NBC 5 Seattle WA (KING-DT1) (1080p)" tvg-logo="https://i.imgur.com/fTRLwhP.png" group-title="",NBC 5 Seattle WA (KING-DT1) (1080p)
+#EXTINF:-1 tvg-id="KINGDT1.us" tvg-name="NBC 5 Seattle WA (KING-DT1) (1080p)" tvg-logo="https://i.imgur.com/fTRLwhP.png" group-title="Local News",NBC 5 Seattle WA (KING-DT1) (1080p)
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-name="NBC 7 San Diego CA (KNSD) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 7 San Diego CA (KNSD) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-name="NBC 7 San Diego CA (KNSD) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 7 San Diego CA (KNSD) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KSBWDT1.us" tvg-name="NBC 8 Salinas CA (KSBW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 8 Salinas CA (KSBW) (720p)
+#EXTINF:-1 tvg-id="KSBWDT1.us" tvg-name="NBC 8 Salinas CA (KSBW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 8 Salinas CA (KSBW) (720p)
 https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8
-#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="NBC 11 San Jose CA (KNTV) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 11 San Jose CA (KNTV) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="NBC 11 San Jose CA (KNTV) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 11 San Jose CA (KNTV) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KTVHDT1.us" tvg-name="NBC 12 Helena MT (KTVH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",NBC 12 Helena MT (KTVH) (720p)
+#EXTINF:-1 tvg-id="KTVHDT1.us" tvg-name="NBC 12 Helena MT (KTVH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 12 Helena MT (KTVH) (720p)
 https://apollo.production-public.tubi.io/live/ac-ktvh.m3u8
-#EXTINF:-1 tvg-id="KOMUDT1.us" tvg-name="KOMU-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/New_KOMU-TV_logo_2023.png" group-title="",KOMU-DT1 (720p)
+#EXTINF:-1 tvg-id="KOMUDT1.us" tvg-name="KOMU-DT1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/New_KOMU-TV_logo_2023.png" group-title="Local News",KOMU-DT1 (720p)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 tvg-id="KPNXDT1.us" tvg-name="KPNX News Channel 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",KPNX News Channel 12
+#EXTINF:-1 tvg-id="KPNXDT1.us" tvg-name="KPNX News Channel 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",KPNX News Channel 12
 https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KRISDT1.us" tvg-name="KRIS-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",KRIS-DT1 (1080p)
+#EXTINF:-1 tvg-id="KRISDT1.us" tvg-name="KRIS-DT1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",KRIS-DT1 (1080p)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-#EXTINF:-1 tvg-id="KSBYDT1.us" tvg-name="KSBY News San Louis Obispo CA (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",KSBY News San Louis Obispo CA (720p)
+#EXTINF:-1 tvg-id="KSBYDT1.us" tvg-name="KSBY News San Louis Obispo CA (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",KSBY News San Louis Obispo CA (720p)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
-#EXTINF:-1 tvg-id="KSHBDT1.us" tvg-name="KSHB 41 (Kansas City MO) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="",KSHB 41 (Kansas City MO) (720p)
+#EXTINF:-1 tvg-id="KSHBDT1.us" tvg-name="KSHB 41 (Kansas City MO) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",KSHB 41 (Kansas City MO) (720p)
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-#EXTINF:-1 tvg-id="KIRODT1.us" tvg-name="KIRO-DT1 (1080p)" tvg-logo="https://i.imgur.com/suvT0TN.png" group-title="",KIRO-DT1 (1080p)
+#EXTINF:-1 tvg-id="KIRODT1.us" tvg-name="KIRO-DT1 (1080p)" tvg-logo="https://i.imgur.com/suvT0TN.png" group-title="Local News",KIRO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 
 
 ###ENTERTAINMENT###
 https://livevideo01.wthr.com/hls/live/2013835/elvs/live.m3u8
-#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="",Showtime 2 East
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="",Showtime East
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Entertainment",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-name="Showtime Next East" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="",Showtime Next East
+#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-name="Showtime Next East" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Entertainment",Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tvg-name="Showtime Women East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="",Showtime Women East
+#EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tvg-name="Showtime Women East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime Women East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="",CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Entertainment",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="FOX Business (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="",FOX Business (1080p)
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="FOX Business (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Entertainment",FOX Business (1080p)
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="",Comedy Central East (720p)
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central East (720p)
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="",Disney Channel (720p)
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Entertainment",Disney Channel (720p)
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Entertainment",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="NickJrEast.us" tvg-name="Nick Jr. East (720p)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="",Nick Jr. East (720p)
+#EXTINF:-1 tvg-id="NickJrEast.us" tvg-name="Nick Jr. East (720p)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Entertainment",Nick Jr. East (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="",Nickelodeon East
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Entertainment",Nickelodeon East
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="NickToons (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="",NickToons (720p)
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="NickToons (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Entertainment",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="MTVEast.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="",MTV
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2East.us" tvg-name="MTV2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="",MTV2 (720p)
+#EXTINF:-1 tvg-id="MTV2East.us" tvg-name="MTV2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2 (720p)
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="MTVU.us" tvg-name="mtvU (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="",mtvU (480p)
+#EXTINF:-1 tvg-id="MTVU.us" tvg-name="mtvU (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Entertainment",mtvU (480p)
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-name="MTV Classic East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="",MTV Classic East (720p)
+#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-name="MTV Classic East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Entertainment",MTV Classic East (720p)
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live (720p)" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="",MTV Live (720p)
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live (720p)" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Entertainment",MTV Live (720p)
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="",Paramount Network East
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: ABC EAST" tvg-logo="" group-title="",US: ABC EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: ABC EAST" tvg-logo="" group-title="Entertainment",US: ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC EAST" tvg-logo="" group-title="",ABC EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC EAST" tvg-logo="" group-title="Entertainment",ABC EAST
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACC NETWORK" tvg-logo="" group-title="",ACC NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACC NETWORK" tvg-logo="" group-title="Entertainment",ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC NETWORK" tvg-logo="" group-title="",AMC NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC NETWORK" tvg-logo="" group-title="Entertainment",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC AMERICA" tvg-logo="" group-title="",BBC AMERICA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC AMERICA" tvg-logo="" group-title="Entertainment",BBC AMERICA
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="Entertainment",BBC WORLD NEWS
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS" tvg-logo="" group-title="",BEIN SPORTS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS" tvg-logo="" group-title="Entertainment",BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG TEN NETWORK" tvg-logo="" group-title="",BIG TEN NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG TEN NETWORK" tvg-logo="" group-title="Entertainment",BIG TEN NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLOOMBERG" tvg-logo="" group-title="",BLOOMBERG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLOOMBERG" tvg-logo="" group-title="Entertainment",BLOOMBERG
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAVO" tvg-logo="" group-title="",BRAVO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAVO" tvg-logo="" group-title="Entertainment",BRAVO
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C SPAN" tvg-logo="" group-title="",C SPAN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C SPAN" tvg-logo="" group-title="Entertainment",C SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="",CARTOON NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Entertainment",CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS EAST" tvg-logo="" group-title="",CBS EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS EAST" tvg-logo="" group-title="Entertainment",CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="Entertainment",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="" group-title="",CINEMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="" group-title="Entertainment",CINEMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX EAST" tvg-logo="" group-title="",CINEMAX EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX EAST" tvg-logo="" group-title="Entertainment",CINEMAX EAST
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX WEST" tvg-logo="" group-title="",CINEMAX WEST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX WEST" tvg-logo="" group-title="Entertainment",CINEMAX WEST
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX MOREMAX" tvg-logo="" group-title="",CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX MOREMAX" tvg-logo="" group-title="Entertainment",CINEMAX MOREMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="" group-title="",CNBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="" group-title="Entertainment",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="",CNN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="Entertainment",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="Entertainment",CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="Entertainment",COMEDY CENTRAL
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY TV" tvg-logo="" group-title="",COMEDY TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY TV" tvg-logo="" group-title="Entertainment",COMEDY TV
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="",COOKING CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="Entertainment",COOKING CHANNEL
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Entertainment",DISCOVERY CHANNEL
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="" group-title="",DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="" group-title="Entertainment",DISCOVERY FAMILY CHANNEL
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY LIFE" tvg-logo="" group-title="",DISCOVERY LIFE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY LIFE" tvg-logo="" group-title="Entertainment",DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Entertainment",DISCOVERY SCIENCE
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Entertainment",DISNEY CHANNEL
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="" group-title="",DISNEY JR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="" group-title="Entertainment",DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="" group-title="",DISNEY XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="" group-title="Entertainment",DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIY" tvg-logo="" group-title="",DIY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIY" tvg-logo="" group-title="Entertainment",DIY
 http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="" group-title="",E!
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="" group-title="Entertainment",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX" tvg-logo="" group-title="",EPIX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX" tvg-logo="" group-title="Entertainment",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX 2" tvg-logo="" group-title="",EPIX 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX 2" tvg-logo="" group-title="Entertainment",EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX DRIVE IN" tvg-logo="" group-title="",EPIX DRIVE IN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX DRIVE IN" tvg-logo="" group-title="Entertainment",EPIX DRIVE IN
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX HITS" tvg-logo="" group-title="",EPIX HITS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX HITS" tvg-logo="" group-title="Entertainment",EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="",ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Entertainment",ESPN
 http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="",ESPN 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Entertainment",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NEWS" tvg-logo="" group-title="",ESPN NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NEWS" tvg-logo="" group-title="Entertainment",ESPN NEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U" tvg-logo="" group-title="",ESPN U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U" tvg-logo="" group-title="Entertainment",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NETWORK" tvg-logo="" group-title="",ESPN NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NETWORK" tvg-logo="" group-title="Entertainment",ESPN NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX EAST" tvg-logo="" group-title="",FOX EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX EAST" tvg-logo="" group-title="Entertainment",FOX EAST
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX BUSSINESS NET" tvg-logo="" group-title="",FOX BUSSINESS NET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX BUSSINESS NET" tvg-logo="" group-title="Entertainment",FOX BUSSINESS NET
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS CHANNEL" tvg-logo="" group-title="",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS CHANNEL" tvg-logo="" group-title="Entertainment",FOX NEWS CHANNEL
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SOCCER PLUS [Not Working]" tvg-logo="" group-title="",FOX SOCCER PLUS [Not Working]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SOCCER PLUS [Not Working]" tvg-logo="" group-title="Entertainment",FOX SOCCER PLUS [Not Working]
 http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1" tvg-logo="" group-title="",FOX SPORTS 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1" tvg-logo="" group-title="Entertainment",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="",FOX SPORTS 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="Entertainment",FOX SPORTS 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="",FX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="Entertainment",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX MOVIE" tvg-logo="" group-title="",FX MOVIE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX MOVIE" tvg-logo="" group-title="Entertainment",FX MOVIE
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXX" tvg-logo="" group-title="",FXX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXX" tvg-logo="" group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME SHOW NET" tvg-logo="" group-title="",GAME SHOW NET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME SHOW NET" tvg-logo="" group-title="Entertainment",GAME SHOW NET
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="",HBO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Entertainment",HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="",HBO 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="Entertainment",HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO COMEDY" tvg-logo="" group-title="",HBO COMEDY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO COMEDY" tvg-logo="" group-title="Entertainment",HBO COMEDY
 http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="" group-title="",HBO FAMILY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="" group-title="Entertainment",HBO FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO ZONE" tvg-logo="" group-title="",HBO ZONE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO ZONE" tvg-logo="" group-title="Entertainment",HBO ZONE
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="",HGTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="Entertainment",HGTV
 http://fl5.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="" group-title="",LIFETIME
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="" group-title="Entertainment",LIFETIME
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME MOVIE NET" tvg-logo="" group-title="",LIFETIME MOVIE NET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME MOVIE NET" tvg-logo="" group-title="Entertainment",LIFETIME MOVIE NET
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB NETWORK" tvg-logo="" group-title="",MLB NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB NETWORK" tvg-logo="" group-title="Entertainment",MLB NETWORK
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC" tvg-logo="" group-title="",MSNBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC" tvg-logo="" group-title="Entertainment",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="",MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Entertainment",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 2" tvg-logo="" group-title="",MTV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 2" tvg-logo="" group-title="Entertainment",MTV 2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV CLASSIC" tvg-logo="" group-title="",MTV CLASSIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV CLASSIC" tvg-logo="" group-title="Entertainment",MTV CLASSIC
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="" group-title="",MTV LIVE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="" group-title="Entertainment",MTV LIVE
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV U" tvg-logo="" group-title="",MTV U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV U" tvg-logo="" group-title="Entertainment",MTV U
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="" group-title="",NAT GEO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="" group-title="Entertainment",NAT GEO
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="",NAT GEO WILD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Entertainment",NAT GEO WILD
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="",NBA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="Entertainment",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC EAST" tvg-logo="" group-title="",NBC EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC EAST" tvg-logo="" group-title="Entertainment",NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC SPORT NET" tvg-logo="" group-title="",NBC SPORT NET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC SPORT NET" tvg-logo="" group-title="Entertainment",NBC SPORT NET
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL NETWORK" tvg-logo="" group-title="",NFL NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL NETWORK" tvg-logo="" group-title="Entertainment",NFL NETWORK
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL NETWORK" tvg-logo="" group-title="",NHL NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL NETWORK" tvg-logo="" group-title="Entertainment",NHL NETWORK
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON" tvg-logo="" group-title="",NICKELODEON
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON" tvg-logo="" group-title="Entertainment",NICKELODEON
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="" group-title="",NICK JR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="" group-title="Entertainment",NICK JR
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK MUSIC" tvg-logo="" group-title="",NICK MUSIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK MUSIC" tvg-logo="" group-title="Entertainment",NICK MUSIC
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="" group-title="",NICKTOONS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="" group-title="Entertainment",NICKTOONS
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEEN NICK" tvg-logo="" group-title="",TEEN NICK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEEN NICK" tvg-logo="" group-title="Entertainment",TEEN NICK
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OXYGEN" tvg-logo="" group-title="",OXYGEN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OXYGEN" tvg-logo="" group-title="Entertainment",OXYGEN
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="Entertainment",PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME" tvg-logo="" group-title="",SHOWTIME
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME" tvg-logo="" group-title="Entertainment",SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME 2" tvg-logo="" group-title="",SHOWTIME 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME 2" tvg-logo="" group-title="Entertainment",SHOWTIME 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME EXTREME" tvg-logo="" group-title="",SHOWTIME EXTREME
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME EXTREME" tvg-logo="" group-title="Entertainment",SHOWTIME EXTREME
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME NEXT" tvg-logo="" group-title="",SHOWTIME NEXT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME NEXT" tvg-logo="" group-title="Entertainment",SHOWTIME NEXT
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME WOMEN" tvg-logo="" group-title="",SHOWTIME WOMEN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME WOMEN" tvg-logo="" group-title="Entertainment",SHOWTIME WOMEN
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME WEST" tvg-logo="" group-title="",SHOWTIME WEST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME WEST" tvg-logo="" group-title="Entertainment",SHOWTIME WEST
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE CHANNEL" tvg-logo="" group-title="",SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE CHANNEL" tvg-logo="" group-title="Entertainment",SONY MOVIE CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ" tvg-logo="" group-title="",STARZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ" tvg-logo="" group-title="Entertainment",STARZ
 http://fl5.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ COMEDY" tvg-logo="" group-title="",STARZ COMEDY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ COMEDY" tvg-logo="" group-title="Entertainment",STARZ COMEDY
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ EDGE" tvg-logo="" group-title="",STARZ EDGE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ EDGE" tvg-logo="" group-title="Entertainment",STARZ EDGE
 http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE" tvg-logo="" group-title="",STARZ ENCORE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE" tvg-logo="" group-title="Entertainment",STARZ ENCORE
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE ACTION" tvg-logo="" group-title="",STARZ ENCORE ACTION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE ACTION" tvg-logo="" group-title="Entertainment",STARZ ENCORE ACTION
 http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="" group-title="",STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="" group-title="Entertainment",STARZ ENCORE CLASSIC
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="" group-title="",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="" group-title="Entertainment",STARZ ENCORE WESTERNS
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ WEST" tvg-logo="" group-title="",STARZ WEST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ WEST" tvg-logo="" group-title="Entertainment",STARZ WEST
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="" group-title="",SYFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="" group-title="Entertainment",SYFY
 http://fl5.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="" group-title="",TBS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="" group-title="Entertainment",TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="Entertainment",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE WEATHER CHANNEL" tvg-logo="" group-title="",THE WEATHER CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE WEATHER CHANNEL" tvg-logo="" group-title="Entertainment",THE WEATHER CHANNEL
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
 http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="",TNT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="Entertainment",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRU TV" tvg-logo="" group-title="",TRU TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRU TV" tvg-logo="" group-title="Entertainment",TRU TV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC" tvg-logo="" group-title="",UFC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC" tvg-logo="" group-title="Entertainment",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK" tvg-logo="" group-title="",USA NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK" tvg-logo="" group-title="Entertainment",USA NETWORK
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="" group-title="",WWE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="" group-title="Entertainment",WWE
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
 
 
 ###NOTICIAS MX###
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="",ADN 40 (720p)
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales MX",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="",Azteca 7 (720p)
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canales MX",Azteca 7 (720p)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="",Canal 6 CDMX
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canales MX",Canal 6 CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="",Azteca Internacional (1080p)
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Canales MX",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="",TVE Star HD (1080p)
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Canales MX",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-name="TV Nuevo León Canal 28 (XHMNL-TDT) (720p)" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-name="TV Nuevo León Canal 28 (XHMNL-TDT) (720p)" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Canales MX",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella TV" tvg-logo="" group-title="",Estrella TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella TV" tvg-logo="" group-title="Canales MX",Estrella TV
 https://list.iptvcat.com/my_list/s/adbbba9db87fc106672d7683cc68bcd8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: ESTRELLAS" tvg-logo="" group-title="",MX: ESTRELLAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: ESTRELLAS" tvg-logo="" group-title="Canales MX",MX: ESTRELLAS
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: IMAGEN TV" tvg-logo="" group-title="",MX: IMAGEN TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: IMAGEN TV" tvg-logo="" group-title="Canales MX",MX: IMAGEN TV
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: IMAGEN TV+" tvg-logo="" group-title="",MX: IMAGEN TV+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: IMAGEN TV+" tvg-logo="" group-title="Canales MX",MX: IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: CANAL 5" tvg-logo="" group-title="",MX: CANAL 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: CANAL 5" tvg-logo="" group-title="Canales MX",MX: CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS CDMX" tvg-logo="" group-title="",MX: MULTIMEDIOS CDMX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS CDMX" tvg-logo="" group-title="Canales MX",MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS MTY" tvg-logo="" group-title="",MX: MULTIMEDIOS MTY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS MTY" tvg-logo="" group-title="Canales MX",MX: MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS LAGUNA" tvg-logo="" group-title="",MX: MULTIMEDIOS LAGUNA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS LAGUNA" tvg-logo="" group-title="Canales MX",MX: MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS GDL" tvg-logo="" group-title="",MX: MULTIMEDIOS GDL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS GDL" tvg-logo="" group-title="Canales MX",MX: MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS PUEBLA" tvg-logo="" group-title="",MX: MULTIMEDIOS PUEBLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: MULTIMEDIOS PUEBLA" tvg-logo="" group-title="Canales MX",MX: MULTIMEDIOS PUEBLA
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: CANAL NU9VE" tvg-logo="" group-title="",MX: CANAL NU9VE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: CANAL NU9VE" tvg-logo="" group-title="Canales MX",MX: CANAL NU9VE
 http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: CANAL NU9VE" tvg-logo="" group-title="",MX: CANAL NU9VE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: CANAL NU9VE" tvg-logo="" group-title="Canales MX",MX: CANAL NU9VE
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: ADN 40" tvg-logo="" group-title="",MX: ADN 40
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: ADN 40" tvg-logo="" group-title="Canales MX",MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: N+ FORO" tvg-logo="" group-title="",MX: N+ FORO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: N+ FORO" tvg-logo="" group-title="Canales MX",MX: N+ FORO
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: TELEFORMULA" tvg-logo="" group-title="",MX: TELEFORMULA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: TELEFORMULA" tvg-logo="" group-title="Canales MX",MX: TELEFORMULA
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: AXN" tvg-logo="" group-title="",MX: AXN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: AXN" tvg-logo="" group-title="Canales MX",MX: AXN
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: SYFY" tvg-logo="" group-title="",MX: SYFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: SYFY" tvg-logo="" group-title="Canales MX",MX: SYFY
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: ESPN" tvg-logo="" group-title="",US: ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: ESPN" tvg-logo="" group-title="Canales MX",US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALIENTE TV" tvg-logo="" group-title="",CALIENTE TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALIENTE TV" tvg-logo="" group-title="Canales MX",CALIENTE TV
 http://spacetvplay.com/RBXVT/CJYFR/558709.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: TCS+" tvg-logo="" group-title="",SV: TCS+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: TCS+" tvg-logo="" group-title="Canales MX",SV: TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 2" tvg-logo="" group-title="",SV: CANAL 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 2" tvg-logo="" group-title="Canales MX",SV: CANAL 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 3" tvg-logo="" group-title="",SV: CANAL 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 3" tvg-logo="" group-title="Canales MX",SV: CANAL 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 12" tvg-logo="" group-title="",SV: CANAL 12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 12" tvg-logo="" group-title="Canales MX",SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 57" tvg-logo="" group-title="",SV: CANAL 57
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 57" tvg-logo="" group-title="Canales MX",SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CR: CANAL 6" tvg-logo="" group-title="",CR: CANAL 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CR: CANAL 6" tvg-logo="" group-title="Canales MX",CR: CANAL 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AGS: CANAL 26" tvg-logo="" group-title="",AGS: CANAL 26
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AGS: CANAL 26" tvg-logo="" group-title="Canales MX",AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAJA: CANAL 66 MEXICALI" tvg-logo="" group-title="",BAJA: CANAL 66 MEXICALI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAJA: CANAL 66 MEXICALI" tvg-logo="" group-title="Canales MX",BAJA: CANAL 66 MEXICALI
 https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAJA: CANAL 33 TIJUANA" tvg-logo="" group-title="",BAJA: CANAL 33 TIJUANA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAJA: CANAL 33 TIJUANA" tvg-logo="" group-title="Canales MX",BAJA: CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDMX: ONCE" tvg-logo="" group-title="",CDMX: ONCE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDMX: ONCE" tvg-logo="" group-title="Canales MX",CDMX: ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDMX: CANAL 14" tvg-logo="" group-title="",CDMX: CANAL 14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDMX: CANAL 14" tvg-logo="" group-title="Canales MX",CDMX: CANAL 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDMX: CANAL 22" tvg-logo="" group-title="",CDMX: CANAL 22
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDMX: CANAL 22" tvg-logo="" group-title="Canales MX",CDMX: CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUA: CANAL 44 Chihuahua" tvg-logo="" group-title="",CUA: CANAL 44 Chihuahua
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUA: CANAL 44 Chihuahua" tvg-logo="" group-title="Canales MX",CUA: CANAL 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: CANAL 15 SABINAS" tvg-logo="" group-title="",COA: CANAL 15 SABINAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: CANAL 15 SABINAS" tvg-logo="" group-title="Canales MX",COA: CANAL 15 SABINAS
 https://cdn.fastocloud.com/leonel.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: NRT INTERNACIONAL" tvg-logo="" group-title="",COA: NRT INTERNACIONAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: NRT INTERNACIONAL" tvg-logo="" group-title="Canales MX",COA: NRT INTERNACIONAL
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: NRT REGION SURESTE" tvg-logo="" group-title="",COA: NRT REGION SURESTE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: NRT REGION SURESTE" tvg-logo="" group-title="Canales MX",COA: NRT REGION SURESTE
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: NRT REGION CENTRO" tvg-logo="" group-title="",COA: NRT REGION CENTRO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COA: NRT REGION CENTRO" tvg-logo="" group-title="Canales MX",COA: NRT REGION CENTRO
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHIAP: CANAL 10" tvg-logo="" group-title="",CHIAP: CANAL 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHIAP: CANAL 10" tvg-logo="" group-title="Canales MX",CHIAP: CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDOMEX: AMX" tvg-logo="" group-title="",EDOMEX: AMX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDOMEX: AMX" tvg-logo="" group-title="Canales MX",EDOMEX: AMX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDOMEX: MEXIQUENSE" tvg-logo="" group-title="",EDOMEX: MEXIQUENSE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDOMEX: MEXIQUENSE" tvg-logo="" group-title="Canales MX",EDOMEX: MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTO: TV 4.1" tvg-logo="" group-title="",GTO: TV 4.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTO: TV 4.1" tvg-logo="" group-title="Canales MX",GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MICH: SMRT" tvg-logo="" group-title="",MICH: SMRT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MICH: SMRT" tvg-logo="" group-title="Canales MX",MICH: SMRT
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QOO: CANAL 10 CANCUN" tvg-logo="" group-title="",QOO: CANAL 10 CANCUN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QOO: CANAL 10 CANCUN" tvg-logo="" group-title="Canales MX",QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 
@@ -668,7 +668,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: UNIMAS" tvg-logo="" group-title="Deportes",US: UNIMAS
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
-#EXTINF:-1 tvg-id="TUDNUSA1" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="",TUDN USA
+#EXTINF:-1 tvg-id="TUDNUSA1" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN USA
 https://yhjkrf.site/chunklist/hlsch33.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Deportes" tvg-logo="" group-title="Deportes",ESPN Deportes
 https://v17.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8?token=1YcyMe0caSGwQdlbbaC42Q&expires=1739001175&user_id=M3kwMzRRNDFJTlZVS1FEYlZVWjR1aWpJdFJEMFRNbDk5cm11Z2c5Zw==
@@ -716,13 +716,13 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/440992
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/440993
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",DEP | ESPN
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/164986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="",DEP | ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="Deportes",DEP | ESPN
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/253253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="DeportesDeportes",DEP | ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="Deportes",DEP | ESPN
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/72707
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN DEPORTES" tvg-logo="http://visualservice.xyz:80/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="Deportes",DEP | ESPN DEPORTES
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/29768
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN PREMIUM" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="",DEP | ESPN PREMIUM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN PREMIUM" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="Deportes",DEP | ESPN PREMIUM
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/253254
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEP | ESPN PREMIUM" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="Deportes",DEP | ESPN PREMIUM
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/22895
@@ -852,101 +852,101 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/279511
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/279513
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA HYPERMOTION M3 HD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="Deportes",LIGA HYPERMOTION M3 HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/279516
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Deportes",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Deportes",Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Sports en Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="",Fox Sports en Espanol (720p)
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Sports en Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",Fox Sports en Espanol (720p)
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTBOL 02" tvg-logo="" group-title="",FUTBOL 02
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTBOL 02" tvg-logo="" group-title="Deportes",FUTBOL 02
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTBOL 03" tvg-logo="" group-title="",FUTBOL 03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTBOL 03" tvg-logo="" group-title="Deportes",FUTBOL 03
 http://45.5.117.182:8000/play/jnl0/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTBOL 04" tvg-logo="" group-title="",FUTBOL 04
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTBOL 04" tvg-logo="" group-title="Deportes",FUTBOL 04
 http://181.78.105.146:8800/play/a07h
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 
 
 ###ENTRETENIMIENTO###
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="",TUDN
-https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
-#EXTINF:-1 tvg-id="UniMasEast.us" tvg-name="UniMás East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="",UniMás East
+#EXTINF:-1 tvg-id="UniMasEast.us" tvg-name="UniMás East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Entretenimiento",UniMás East
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="",Univision East
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision East
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
-#EXTINF:-1 tvg-id="TVMas.mx" tvg-name="TVMás (720p)" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="",TVMás (720p)
+#EXTINF:-1 tvg-id="TVMas.mx" tvg-name="TVMás (720p)" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="Entretenimiento",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 tvg-id="GalavisionEast.us" tvg-name="Galavisión East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="",Galavisión East
+#EXTINF:-1 tvg-id="GalavisionEast.us" tvg-name="Galavisión East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Entretenimiento",Galavisión East
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="Telemundo West (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="",Telemundo West (720p)
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="Telemundo West (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo West (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-name="Telemundo Corpus Christi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="",Telemundo Corpus Christi
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-name="Telemundo Corpus Christi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Entretenimiento",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="",Bandamax
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Entretenimiento",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: TELEMUNDO 51 MIAMI" tvg-logo="" group-title="",US: TELEMUNDO 51 MIAMI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: TELEMUNDO 51 MIAMI" tvg-logo="" group-title="Entretenimiento",US: TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION MIAMI" tvg-logo="" group-title="",UNIVISION MIAMI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION MIAMI" tvg-logo="" group-title="Entretenimiento",UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",DISCOVERY CHANNEL HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CIVILIZATION HD   *lt" tvg-logo="http://visualservice.xyz:80/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="",DISCOVERY CIVILIZATION HD   *lt
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CIVILIZATION HD   *lt" tvg-logo="http://visualservice.xyz:80/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="Entretenimiento",DISCOVERY CIVILIZATION HD   *lt
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY  H&H  SD" tvg-logo="http://visualservice.xyz:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="",DISCOVERY  H&H  SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY  H&H  SD" tvg-logo="http://visualservice.xyz:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="Entretenimiento",DISCOVERY  H&H  SD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE SD   *lt" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="",DISCOVERY SCIENCE SD   *lt
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE SD   *lt" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="Entretenimiento",DISCOVERY SCIENCE SD   *lt
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="Entretenimiento",DISCOVERY SCIENCE HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="",INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="Entretenimiento",INVESTIGATION DISCOVERY HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD LAT HD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="",DISCOVERY WORLD LAT HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD LAT HD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="Entretenimiento",DISCOVERY WORLD LAT HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILIA" tvg-logo="http://visualservice.xyz:80/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="",DISCOVERY FAMILIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILIA" tvg-logo="http://visualservice.xyz:80/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="Entretenimiento",DISCOVERY FAMILIA
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER SD   *lt" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="",DISCOVERY THEATER SD   *lt
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER SD   *lt" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="Entretenimiento",DISCOVERY THEATER SD   *lt
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/110775
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC HD." tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="",DISCOVERY TLC HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC HD." tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Entretenimiento",DISCOVERY TLC HD.
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/110781
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="Entretenimiento",DISCOVERY THEATER
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="",DISCOVERY H&H NORTE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="Entretenimiento",DISCOVERY H&H NORTE
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",DISCOVERY CHANNEL
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/287610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="Entretenimiento",DISCOVERY WORLD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/287611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="Entretenimiento",INVESTIGATION DISCOVERY
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/287612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H SUR" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title=group-title="",DISCOVERY H&H SUR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H SUR" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title=group-title="Entretenimiento",DISCOVERY H&H SUR
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/287616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: Comedy Central   *lt" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title=group-title="",MX: Comedy Central   *lt
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: Comedy Central   *lt" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title=group-title="Entretenimiento",MX: Comedy Central   *lt
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Telenovelas HD" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title=group-title="",Univision Telenovelas HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Telenovelas HD" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title=group-title="Entretenimiento",Univision Telenovelas HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/56997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | SONY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="", SONY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | SONY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="Entretenimiento", SONY CHANNEL
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | WARNER HD" tvg-logo="http://visualservice.xyz:80/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="", WARNER HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | WARNER HD" tvg-logo="http://visualservice.xyz:80/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="Entretenimiento", WARNER HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | UNIVERSAL CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="", UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | UNIVERSAL CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="Entretenimiento", UNIVERSAL CHANNEL HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | STUDIO UNIVERSAL FHD" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="", STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | STUDIO UNIVERSAL FHD" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="Entretenimiento", STUDIO UNIVERSAL FHD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias California" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/1C5A65F4-B701-4A75-A353-80CA1004D222/3-1x1.png" group-title="",Telemundo Noticias California
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias California" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/1C5A65F4-B701-4A75-A353-80CA1004D222/3-1x1.png" group-title="Entretenimiento",Telemundo Noticias California
 https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Florida" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" group-title="",Telemundo Noticias Florida
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Florida" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" group-title="Entretenimiento",Telemundo Noticias Florida
 https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Noreste" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6FC1200A-60DC-4584-854A-B9FA15BA06F2/3-1x1.png/900" group-title="",Telemundo Noticias Noreste
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Noreste" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6FC1200A-60DC-4584-854A-B9FA15BA06F2/3-1x1.png/900" group-title="Entretenimiento",Telemundo Noticias Noreste
 https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Texas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0/3-1x1.png/900" group-title="",Telemundo Noticias Texas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Texas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0/3-1x1.png/900" group-title="Entretenimiento",Telemundo Noticias Texas
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
 
 
 ###SPORTS###
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="",FOX Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="Sports",FOX Weather
 https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="",CBS Sports HQ
+#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/39662b8f-fb8a-473f-aa89-14febf15fc75:MRN2/variant/4ec913da4d7d62c8d5552125caf9cb08/bandwidth/4143876.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-name="CBS Sports Golazo Network" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="",CBS Sports Golazo Network
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-name="CBS Sports Golazo Network" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-name="CBS Sports Network USA" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="",CBS Sports Network USA
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-name="CBS Sports Network USA" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
