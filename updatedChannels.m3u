@@ -288,109 +288,105 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-on
 https://livevideo01.wthr.com/hls/live/2013835/elvs/live.m3u8
 
 
-#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime 2 East
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Entertainment",Showtime East
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Entertainment",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-name="Showtime Next East" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Entertainment",Showtime Next East
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Entertainment",Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tvg-name="Showtime Women East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime Women East
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime Women East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Entertainment",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="FOX Business (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Entertainment",FOX Business (1080p)
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Entertainment",FOX Business (1080p)
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central East (720p)
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central East (720p)
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Entertainment",Disney Channel (720p)
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Entertainment",Disney Channel (720p)
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Entertainment",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Entertainment",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="NickJrEast.us" tvg-name="Nick Jr. East (720p)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Entertainment",Nick Jr. East (720p)
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Entertainment",Nick Jr. East (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Entertainment",Nickelodeon East
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Entertainment",Nickelodeon East
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="NickToons (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Entertainment",NickToons (720p)
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Entertainment",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="MTVEast.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2East.us" tvg-name="MTV2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2 (720p)
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2 (720p)
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="MTVU.us" tvg-name="mtvU (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Entertainment",mtvU (480p)
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-name="MTV Classic East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Entertainment",MTV Classic East (720p)
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Entertainment",MTV Classic East (720p)
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live (720p)" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Entertainment",MTV Live (720p)
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network East
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US: ABC EAST" tvg-logo="" group-title="Entertainment",US: ABC EAST
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="" group-title="Entertainment",US: ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC EAST" tvg-logo="" group-title="Entertainment",ABC EAST
-http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACC NETWORK" tvg-logo="" group-title="Entertainment",ACC NETWORK
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC NETWORK" tvg-logo="" group-title="Entertainment",ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC NETWORK" tvg-logo="" group-title="Entertainment",AMC NETWORK
+#EXTINF:-1 tvg-id="AMCStream(East).us" tvg-name="AMC NETWORK" tvg-logo="" group-title="Entertainment",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC AMERICA" tvg-logo="" group-title="Entertainment",BBC AMERICA
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" tvg-logo="" group-title="Entertainment",BBC AMERICA
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="Entertainment",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="BBCNews(NorthAmerica).us" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="Entertainment",BBC WORLD NEWS
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS" tvg-logo="" group-title="Entertainment",BEIN SPORTS
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN SPORTS" tvg-logo="" group-title="Entertainment",BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG TEN NETWORK" tvg-logo="" group-title="Entertainment",BIG TEN NETWORK
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="BIG TEN NETWORK" tvg-logo="" group-title="Entertainment",BIG TEN NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLOOMBERG" tvg-logo="" group-title="Entertainment",BLOOMBERG
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="" group-title="Entertainment",BLOOMBERG
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAVO" tvg-logo="" group-title="Entertainment",BRAVO
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="" group-title="Entertainment",BRAVO
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C SPAN" tvg-logo="" group-title="Entertainment",C SPAN
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C SPAN" tvg-logo="" group-title="Entertainment",C SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Entertainment",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Entertainment",CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS EAST" tvg-logo="" group-title="Entertainment",CBS EAST
+#EXTINF:-1 tvg-id="WCBSDT.us" tvg-name="CBS EAST" tvg-logo="" group-title="Entertainment",CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="Entertainment",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="Entertainment",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="" group-title="Entertainment",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="CINEMAX" tvg-logo="" group-title="Entertainment",CINEMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX EAST" tvg-logo="" group-title="Entertainment",CINEMAX EAST
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX WEST" tvg-logo="" group-title="Entertainment",CINEMAX WEST
+#EXTINF:-1 tvg-id="Cinemax(Pacific).us" tvg-name="CINEMAX WEST" tvg-logo="" group-title="Entertainment",CINEMAX WEST
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX MOREMAX" tvg-logo="" group-title="Entertainment",CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="MoreMAX.us" tvg-name="CINEMAX MOREMAX" tvg-logo="" group-title="Entertainment",CINEMAX MOREMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="" group-title="Entertainment",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="Entertainment",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="" group-title="Entertainment",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="Entertainment",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="Entertainment",CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="Entertainment",COMEDY CENTRAL
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY TV" tvg-logo="" group-title="Entertainment",COMEDY TV
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="COMEDY TV" tvg-logo="" group-title="Entertainment",COMEDY TV
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="Entertainment",COOKING CHANNEL
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="Entertainment",COOKING CHANNEL
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Entertainment",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Entertainment",DISCOVERY CHANNEL
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="" group-title="Entertainment",DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="" group-title="Entertainment",DISCOVERY FAMILY CHANNEL
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY LIFE" tvg-logo="" group-title="Entertainment",DISCOVERY LIFE
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE" tvg-logo="" group-title="Entertainment",DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Entertainment",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="CTVNature(English).ca" tvg-name="CTV Nature HD" tvg-logo="" group-title="Entertainment",CTV Nature HD
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Entertainment",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Entertainment",DISNEY CHANNEL
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="" group-title="Entertainment",DISNEY JR
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY JR" tvg-logo="" group-title="Entertainment",DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="" group-title="Entertainment",DISNEY XD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY XD" tvg-logo="" group-title="Entertainment",DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIY" tvg-logo="" group-title="Entertainment",DIY
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="" group-title="Entertainment",Magnolia Network
 http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="" group-title="Entertainment",E!
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="" group-title="Entertainment",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX" tvg-logo="" group-title="Entertainment",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -400,141 +396,141 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX HITS" tvg-logo="" group-title="Entertainment",EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Entertainment",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="" group-title="Entertainment",ESPN
 http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Entertainment",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="" group-title="Entertainment",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NEWS" tvg-logo="" group-title="Entertainment",ESPN NEWS
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="" group-title="Entertainment",ESPN
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U" tvg-logo="" group-title="Entertainment",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="" group-title="Entertainment",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NETWORK" tvg-logo="" group-title="Entertainment",ESPN NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="" group-title="Entertainment",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX EAST" tvg-logo="" group-title="Entertainment",FOX EAST
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX" tvg-logo="" group-title="Entertainment",FOX
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX BUSSINESS NET" tvg-logo="" group-title="Entertainment",FOX BUSSINESS NET
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business" tvg-logo="" group-title="Entertainment",Fox Business
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS CHANNEL" tvg-logo="" group-title="Entertainment",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="Entertainment",Fox News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SOCCER PLUS [Not Working]" tvg-logo="" group-title="Entertainment",FOX SOCCER PLUS [Not Working]
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="Fox Soccer Plus HD [Not Working]" tvg-logo="" group-title="Entertainment",Fox Soccer Plus HD [Not Working]
 http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1" tvg-logo="" group-title="Entertainment",FOX SPORTS 1
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FOX SPORTS 1" tvg-logo="" group-title="Entertainment",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="Entertainment",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="Entertainment",FOX SPORTS 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="Entertainment",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="" group-title="Entertainment",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX MOVIE" tvg-logo="" group-title="Entertainment",FX MOVIE
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel HD" tvg-logo="" group-title="Entertainment",FX Movie Channel HD
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXX" tvg-logo="" group-title="Entertainment",FXX
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="" group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME SHOW NET" tvg-logo="" group-title="Entertainment",GAME SHOW NET
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="GAME SHOW NET" tvg-logo="" group-title="Entertainment",GAME SHOW NET
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Entertainment",HBO
+#EXTINF:-1 tvg-id="HBO(East).us" tvg-name="HBO" tvg-logo="" group-title="Entertainment",HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="Entertainment",HBO 2
+#EXTINF:-1 tvg-id="HBO(East).us" tvg-name="HBO 2" tvg-logo="" group-title="Entertainment",HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO COMEDY" tvg-logo="" group-title="Entertainment",HBO COMEDY
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO COMEDY" tvg-logo="" group-title="Entertainment",HBO COMEDY
 http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="" group-title="Entertainment",HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO FAMILY" tvg-logo="" group-title="Entertainment",HBO FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO ZONE" tvg-logo="" group-title="Entertainment",HBO ZONE
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO ZONE" tvg-logo="" group-title="Entertainment",HBO ZONE
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="Entertainment",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="" group-title="Entertainment",HGTV
 http://fl5.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="" group-title="Entertainment",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="LIFETIME" tvg-logo="" group-title="Entertainment",LIFETIME
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME MOVIE NET" tvg-logo="" group-title="Entertainment",LIFETIME MOVIE NET
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="" group-title="Entertainment",LMN
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB NETWORK" tvg-logo="" group-title="Entertainment",MLB NETWORK
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB NETWORK" tvg-logo="" group-title="Entertainment",MLB NETWORK
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC" tvg-logo="" group-title="Entertainment",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="" group-title="Entertainment",MSNBCLifetime.us
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="" group-title="Entertainment",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 2" tvg-logo="" group-title="Entertainment",MTV 2
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV 2" tvg-logo="" group-title="Entertainment",MTV 2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV CLASSIC" tvg-logo="" group-title="Entertainment",MTV CLASSIC
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC" tvg-logo="" group-title="Entertainment",MTV CLASSIC
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="" group-title="Entertainment",MTV LIVE
+#EXTINF:-1 tvg-id="MTVLIVE.us" tvg-name="MTV LIVE" tvg-logo="" group-title="Entertainment",MTV LIVE
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV U" tvg-logo="" group-title="Entertainment",MTV U
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="MTV U" tvg-logo="" group-title="Entertainment",MTV U
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="" group-title="Entertainment",NAT GEO
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NAT GEO" tvg-logo="" group-title="Entertainment",NAT GEO
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Entertainment",NAT GEO WILD
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Entertainment",NAT GEO WILD
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="Entertainment",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Entertainment",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC EAST" tvg-logo="" group-title="Entertainment",NBC EAST
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC" tvg-logo="" group-title="Entertainment",NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC SPORT NET" tvg-logo="" group-title="Entertainment",NBC SPORT NET
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL NETWORK" tvg-logo="" group-title="Entertainment",NFL NETWORK
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK" tvg-logo="" group-title="Entertainment",NFL NETWORK
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL NETWORK" tvg-logo="" group-title="Entertainment",NHL NETWORK
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL NETWORK" tvg-logo="" group-title="Entertainment",NHL NETWORK
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON" tvg-logo="" group-title="Entertainment",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="" group-title="Entertainment",NICKELODEON
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="" group-title="Entertainment",NICK JR
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NICK JR" tvg-logo="" group-title="Entertainment",NICK JR
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK MUSIC" tvg-logo="" group-title="Entertainment",NICK MUSIC
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NICK MUSIC" tvg-logo="" group-title="Entertainment",NICK MUSIC
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="" group-title="Entertainment",NICKTOONS
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NICKTOONS" tvg-logo="" group-title="Entertainment",NICKTOONS
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEEN NICK" tvg-logo="" group-title="Entertainment",TEEN NICK
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TEEN NICK" tvg-logo="" group-title="Entertainment",TEEN NICK
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OXYGEN" tvg-logo="" group-title="Entertainment",OXYGEN
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="OXYGEN" tvg-logo="" group-title="Entertainment",OXYGEN
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="Entertainment",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="Entertainment",PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME" tvg-logo="" group-title="Entertainment",SHOWTIME
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime(Pacific).us" tvg-name="SHOWTIME" tvg-logo="" group-title="Entertainment",SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME 2" tvg-logo="" group-title="Entertainment",SHOWTIME 2
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="" group-title="Entertainment",SHOWTIME 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME EXTREME" tvg-logo="" group-title="Entertainment",SHOWTIME EXTREME
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="" group-title="Entertainment",SHOWTIME EXTREME
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME NEXT" tvg-logo="" group-title="Entertainment",SHOWTIME NEXT
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="SHOWTIME NEXT" tvg-logo="" group-title="Entertainment",SHOWTIME NEXT
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME WOMEN" tvg-logo="" group-title="Entertainment",SHOWTIME WOMEN
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="" group-title="Entertainment",SHOWTIME WOMEN
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME WEST" tvg-logo="" group-title="Entertainment",SHOWTIME WEST
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime(Pacific).us" tvg-name="Showtime (Pacific)" tvg-logo="" group-title="Entertainment",Showtime (Pacific)
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE CHANNEL" tvg-logo="" group-title="Entertainment",SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="" group-title="Entertainment",SONY MOVIE CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ" tvg-logo="" group-title="Entertainment",STARZ
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="" group-title="Entertainment",STARZ
 http://fl5.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ COMEDY" tvg-logo="" group-title="Entertainment",STARZ COMEDY
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ COMEDY" tvg-logo="" group-title="Entertainment",STARZ COMEDY
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ EDGE" tvg-logo="" group-title="Entertainment",STARZ EDGE
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ EDGE" tvg-logo="" group-title="Entertainment",STARZ EDGE
 http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE" tvg-logo="" group-title="Entertainment",STARZ ENCORE
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZ ENCORE" tvg-logo="" group-title="Entertainment",STARZ ENCORE
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE ACTION" tvg-logo="" group-title="Entertainment",STARZ ENCORE ACTION
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="" group-title="Entertainment",STARZ ENCORE ACTION
 http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="" group-title="Entertainment",STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="" group-title="Entertainment",STARZ ENCORE CLASSIC
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="" group-title="Entertainment",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="" group-title="Entertainment",STARZ ENCORE WESTERNS
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ WEST" tvg-logo="" group-title="Entertainment",STARZ WEST
+#EXTINF:-1 tvg-id="StarzEncore(Pacific).us" tvg-name="Starz Encore (Pacific)" tvg-logo="" group-title="Entertainment",Starz Encore (Pacific)
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="" group-title="Entertainment",SYFY
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="" group-title="Entertainment",SYFY
 http://fl5.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="" group-title="Entertainment",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="" group-title="Entertainment",TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="Entertainment",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="Entertainment",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE WEATHER CHANNEL" tvg-logo="" group-title="Entertainment",THE WEATHER CHANNEL
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="THE WEATHER CHANNEL" tvg-logo="" group-title="Entertainment",THE WEATHER CHANNEL
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
 http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="" group-title="Entertainment",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRU TV" tvg-logo="" group-title="Entertainment",TRU TV
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="" group-title="Entertainment",TRU TV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC" tvg-logo="" group-title="Entertainment",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK" tvg-logo="" group-title="Entertainment",USA NETWORK
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA NETWORK" tvg-logo="" group-title="Entertainment",USA NETWORK
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="" group-title="Entertainment",WWE
 http://fl2.moveonjoy.com/WWE/index.m3u8
