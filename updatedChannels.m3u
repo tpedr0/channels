@@ -571,18 +571,6 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALIENTE TV" tvg-logo="" group-title="Canales MX",CALIENTE TV
 http://spacetvplay.com/RBXVT/CJYFR/558709.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: TCS+" tvg-logo="" group-title="Canales MX",SV: TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 2" tvg-logo="" group-title="Canales MX",SV: CANAL 2
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 3" tvg-logo="" group-title="Canales MX",SV: CANAL 3
-https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 12" tvg-logo="" group-title="Canales MX",SV: CANAL 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SV: CANAL 57" tvg-logo="" group-title="Canales MX",SV: CANAL 57
-https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CR: CANAL 6" tvg-logo="" group-title="Canales MX",CR: CANAL 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AGS: CANAL 26" tvg-logo="" group-title="Canales MX",AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAJA: CANAL 66 MEXICALI" tvg-logo="" group-title="Canales MX",BAJA: CANAL 66 MEXICALI
@@ -614,7 +602,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTO: TV 4.1" tvg-logo="" group-title="Canales MX",GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MICH: SMRT" tvg-logo="" group-title="Canales MX",MICH: SMRT
-https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QOO: CANAL 10 CANCUN" tvg-logo="" group-title="Canales MX",QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
@@ -904,7 +892,7 @@ https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u
 http://fortv.cc:8080/live/5djSbC/538755/57619.ts
 
 
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="Entertainment",FOX Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png "group-title="Entertainment",FOX Weather
 https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/39662b8f-fb8a-473f-aa89-14febf15fc75:MRN2/variant/4ec913da4d7d62c8d5552125caf9cb08/bandwidth/4143876.m3u8
