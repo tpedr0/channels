@@ -514,6 +514,8 @@ http://fl1.moveonjoy.com/UFC/index.m3u8
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="" group-title="Entertainment",WWE
 http://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE 2" tvg-logo="" group-title="Entertainment",WWE 2
+http://fortv.cc:8080/live/5djSbC/538755/11645.ts
 
 
 
@@ -858,6 +860,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel(Spanish).mx" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",Discovery Channel HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30076
+#EXTINF:-1 tvg-id="DiscoveryChannel(Spanish).mx" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",Discovery Channel HD 2
+http://fortv.cc:8080/live/5djSbC/538755/57625.ts
 #EXTINF:-1 tvg-id="HGTV(Spanish).mx" tvg-name="HGTV" tvg-logo="http://visualservice.xyz:80/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="Entretenimiento",HGTV 
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30082
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth(English).mx" tvg-name="Discovery Home & Health" tvg-logo="http://visualservice.xyz:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="Entretenimiento",Discovery Home & Health
@@ -870,7 +874,7 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/31049
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31050
 #EXTINF:-1 tvg-id="DiscoveryFamilia(Spanish).us" tvg-name="Discovery Familia HD" tvg-logo="http://visualservice.xyz:80/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="Entretenimiento",Discovery Familia HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31053
-#EXTINF:-1 tvg-id="TLC(Spanish).mx" tvg-name="TLC" tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Entretenimiento",TLC
+#EXTINF:-1 tvg-id="TLC(Spanish).mx" tvg-name="TLC" tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Entretenimiento",TLCssss
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/110781
 #EXTINF:-1 tvg-id="DiscoveryTheater(Spanish).mx" tvg-name="Discovery Theater HD" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="Entretenimiento",Discovery Theater HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31052
@@ -894,6 +898,8 @@ https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m
 https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias Texas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0/3-1x1.png/900" group-title="Entretenimiento",Telemundo Noticias Texas
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNEnEspanol(Spanish).mx" tvg-name="CNN en Español" tvg-logo="" group-title="Entretenimiento",CNN en Español
+http://fortv.cc:8080/live/5djSbC/538755/57619.ts
 
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="Entertainment",FOX Weather
