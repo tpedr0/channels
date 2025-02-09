@@ -858,49 +858,35 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION MIAMI" tvg-logo="" group-title="Entretenimiento",UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannel(Spanish).mx" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",Discovery Channel HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CIVILIZATION HD   *lt" tvg-logo="http://visualservice.xyz:80/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="Entretenimiento",DISCOVERY CIVILIZATION HD   *lt
+#EXTINF:-1 tvg-id="HGTV(Spanish).mx" tvg-name="HGTV" tvg-logo="http://visualservice.xyz:80/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="Entretenimiento",HGTV 
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY  H&H  SD" tvg-logo="http://visualservice.xyz:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="Entretenimiento",DISCOVERY  H&H  SD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth(English).mx" tvg-name="Discovery Home & Health" tvg-logo="http://visualservice.xyz:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="Entretenimiento",Discovery Home & Health
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/30084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE SD   *lt" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="Entretenimiento",DISCOVERY SCIENCE SD   *lt
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/31047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="Entretenimiento",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScience(Spanish).mx" tvg-name="Discovery Science HD" tvg-logo="http://visualservice.xyz:80/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="Entretenimiento",Discovery Science HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="Entretenimiento",INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Investigation Discovery HD" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="Entretenimiento",Investigation Discovery HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD LAT HD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="Entretenimiento",DISCOVERY WORLD LAT HD
+#EXTINF:-1 tvg-id="DiscoveryWorld(Spanish).mx" tvg-name="Discovery World HD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="Entretenimiento",Discovery World HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILIA" tvg-logo="http://visualservice.xyz:80/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="Entretenimiento",DISCOVERY FAMILIA
+#EXTINF:-1 tvg-id="DiscoveryFamilia(Spanish).us" tvg-name="Discovery Familia HD" tvg-logo="http://visualservice.xyz:80/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="Entretenimiento",Discovery Familia HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER SD   *lt" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="Entretenimiento",DISCOVERY THEATER SD   *lt
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/110775
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC HD." tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Entretenimiento",DISCOVERY TLC HD.
+#EXTINF:-1 tvg-id="TLC(Spanish).mx" tvg-name="TLC" tvg-logo="http://visualservice.xyz:80/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Entretenimiento",TLC
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/110781
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="Entretenimiento",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="DiscoveryTheater(Spanish).mx" tvg-name="Discovery Theater HD" tvg-logo="http://visualservice.xyz:80/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="Entretenimiento",Discovery Theater HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="Entretenimiento",DISCOVERY H&H NORTE
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/31064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/813513ce030768aab17b38d54a047587.png" group-title="Entretenimiento",DISCOVERY CHANNEL
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/287610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD" tvg-logo="http://visualservice.xyz:80/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="Entretenimiento",DISCOVERY WORLD
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/287611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://visualservice.xyz:80/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="Entretenimiento",INVESTIGATION DISCOVERY
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/287612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H SUR" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title=group-title="Entretenimiento",DISCOVERY H&H SUR
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/287616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: Comedy Central   *lt" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title=group-title="Entretenimiento",MX: Comedy Central   *lt
+#EXTINF:-1 tvg-id="ComedyCentral(Spanish).mx" tvg-name="Comedy Central" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title="Entretenimiento" Comedy Central
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Telenovelas HD" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title=group-title="Entretenimiento",Univision Telenovelas HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Telenovelas HD" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="Entretenimiento",Univision Telenovelas HD
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/56997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | SONY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="Entretenimiento", SONY CHANNEL
+#EXTINF:-1 tvg-id="SonyCine(Spanish).us" tvg-name="Sony Cine" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="Entretenimiento",Sony Cine
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | WARNER HD" tvg-logo="http://visualservice.xyz:80/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="Entretenimiento", WARNER HD
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WarnerChannel(Spanish).mx" tvg-logo="http://visualservice.xyz:80/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="Entretenimiento", WarnerChannel(Spanish).mx
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | UNIVERSAL CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="Entretenimiento", UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="UniversalCinema(Spanish).mx" tvg-name="Universal Cinema" tvg-logo="http://visualservice.xyz:80/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="Entretenimiento", Universal Cinema
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT | STUDIO UNIVERSAL FHD" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="Entretenimiento", STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="StudioUniversal(Spanish).mx" tvg-name="Studio Universal" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="Entretenimiento",Studio Universal
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31029
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Noticias California" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/1C5A65F4-B701-4A75-A353-80CA1004D222/3-1x1.png" group-title="Entretenimiento",Telemundo Noticias California
 https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8
@@ -912,7 +898,7 @@ https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="Sports",FOX Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="Entertainment",FOX Weather
 https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/39662b8f-fb8a-473f-aa89-14febf15fc75:MRN2/variant/4ec913da4d7d62c8d5552125caf9cb08/bandwidth/4143876.m3u8
