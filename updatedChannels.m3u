@@ -41,7 +41,7 @@ https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/b146ffc
 https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/680fcfdd-8a37-40cc-9812-9916365f9971:MRN2/variant/1f9ff3f028857ef24cab61d89456096f/bandwidth/3072858.m3u8
 #EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-name="CBS News Sacramento" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="Local News",CBS News Sacramento
 https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/49643b82-9d75-44a3-a6af-82a05aa5e0c4:MRN2/variant/ddc9e79d64684c662a8a64049d446d41/bandwidth/3258299.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX Live Now [Geo-blocked]" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Local News",FOX Live Now [Geo-blocked]
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX Live Now " tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Local News",FOX Live Now 
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (144p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Local News",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -87,7 +87,7 @@ https://apollo.production-public.tubi.io/live/ac-witi.m3u8
 https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8
 #EXTINF:-1 tvg-id="WXMIDT1.us" tvg-name="FOX 17 Grand Rapids MI (WXMI) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX 17 Grand Rapids MI (WXMI) (720p)
 https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
-#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="Fox 25 Boston (WFXT-TV) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Local News",Fox 25 Boston (WFXT-TV) [Geo-blocked]
+#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="Fox 25 Boston (WFXT-TV) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Local News",Fox 25 Boston (WFXT-TV) 
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="FOX 29 Philadelphia PA (WTXF-TV) (720p)" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="Local News",FOX 29 Philadelphia PA (WTXF-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
@@ -143,23 +143,23 @@ https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 #EXTINF:-1 tvg-id="WYFFDT1.us" tvg-name="NBC 4 Greenville SC (WYFF) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 4 Greenville SC (WYFF) (720p)
 https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 New York NY (WNBC) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Local News",NBC 4 New York NY (WNBC) [Geo-blocked]
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 New York NY (WNBC) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Local News",NBC 4 New York NY (WNBC) 
 https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WRCDT1.us" tvg-name="NBC 4 Washington DC (WRC) [Geo-blocked]" tvg-logo="https://i.imgur.com/7JpMArM.png" group-title="Local News",NBC 4 Washington DC (WRC) [Geo-blocked]
+#EXTINF:-1 tvg-id="WRCDT1.us" tvg-name="NBC 4 Washington DC (WRC) " tvg-logo="https://i.imgur.com/7JpMArM.png" group-title="Local News",NBC 4 Washington DC (WRC) 
 https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="NBC 5 Chicago IL (WMAQ) [Geo-blocked]" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="Local News",NBC 5 Chicago IL (WMAQ) [Geo-blocked]
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="NBC 5 Chicago IL (WMAQ) " tvg-logo="https://i.imgur.com/wblxisu.png" group-title="Local News",NBC 5 Chicago IL (WMAQ) 
 https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WLWTDT1.us" tvg-name="NBC 5 Cincinnati OH (WLWT) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Cincinnati OH (WLWT) (720p)
 https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us" tvg-name="NBC 6 Miami FL (WTVJ) [Geo-blocked]" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="Local News",NBC 6 Miami FL (WTVJ) [Geo-blocked]
+#EXTINF:-1 tvg-id="WTVJDT1.us" tvg-name="NBC 6 Miami FL (WTVJ) " tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="Local News",NBC 6 Miami FL (WTVJ) 
 https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WDSUDT1.us" tvg-name="NBC 6 New Orleans LA (WDSU) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 6 New Orleans LA (WDSU) (720p)
 https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
 #EXTINF:-1 tvg-id="WLIODT1.us" tvg-name="NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 https://live.field59.com/wlio/wlio1/playlist.m3u8
-#EXTINF:-1 tvg-id="WBTSCD1.us" tvg-name="NBC 10 Boston NH (WBTS) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png" group-title="Local News",NBC 10 Boston NH (WBTS) [Geo-blocked]
+#EXTINF:-1 tvg-id="WBTSCD1.us" tvg-name="NBC 10 Boston NH (WBTS) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png" group-title="Local News",NBC 10 Boston NH (WBTS) 
 https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="NBC 10 Philadelphia PA (WCAU) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="Local News",NBC 10 Philadelphia PA (WCAU) [Geo-blocked]
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="NBC 10 Philadelphia PA (WCAU) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="Local News",NBC 10 Philadelphia PA (WCAU) 
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WJARDT1.us" tvg-name="NBC 10 Providence MA (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png" group-title="Local News",NBC 10 Providence MA (1080p)
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
@@ -171,7 +171,7 @@ https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8
 https://apollo.production-public.tubi.io/live/ac-wlex.m3u8
 #EXTINF:-1 tvg-id="WGBADT1.us" tvg-name="NBC 26 Green Bay WI (WGBA-DT1) (720p)" tvg-logo="https://i.imgur.com/bzgfmRL.png" group-title="Local News",NBC 26 Green Bay WI (WGBA-DT1) (720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 tvg-id="WVITDT1.us" tvg-name="NBC 30 West Hartford CT (WVIT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png" group-title="Local News",NBC 30 West Hartford CT (WVIT) [Geo-blocked]
+#EXTINF:-1 tvg-id="WVITDT1.us" tvg-name="NBC 30 West Hartford CT (WVIT) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png" group-title="Local News",NBC 30 West Hartford CT (WVIT) 
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KNTV" tvg-name="NBC Bay Area" tvg-logo="https://yt3.googleusercontent.com/YIGfFZF0G14PVzJ_ttxJNCSyUnNBLA3UTF7lxw4SJq3lQrk-FRh_5JzDAgq0cZONMyNYzFun=s900-c-k-c0x00ffffff-no-rj" group-title="Local News",NBC Bay Area
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
@@ -256,19 +256,19 @@ https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 #EXTINF:-1 tvg-id="KCRADT1.us" tvg-name="NBC 3 Sacramento CA (KCRA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 3 Sacramento CA (KCRA) (720p)
 https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC 4 Los Angeles CA (KNBC) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC 4 Los Angeles CA (KNBC) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 4 Los Angeles CA (KNBC) 
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KOAADT1.us" tvg-name="NBC 5 Colorado Springs CO (KOAA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Colorado Springs CO (KOAA) (720p)
 https://apollo.production-public.tubi.io/live/ac-koaa.m3u8
-#EXTINF:-1 tvg-id="KXASDT1.us" tvg-name="NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]
+#EXTINF:-1 tvg-id="KXASDT1.us" tvg-name="NBC 5 Dallas-Fort Worth TX (KXAS) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 5 Dallas-Fort Worth TX (KXAS) 
 https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KINGDT1.us" tvg-name="NBC 5 Seattle WA (KING-DT1) (1080p)" tvg-logo="https://i.imgur.com/fTRLwhP.png" group-title="Local News",NBC 5 Seattle WA (KING-DT1) (1080p)
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
-#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-name="NBC 7 San Diego CA (KNSD) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 7 San Diego CA (KNSD) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-name="NBC 7 San Diego CA (KNSD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 7 San Diego CA (KNSD) 
 https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KSBWDT1.us" tvg-name="NBC 8 Salinas CA (KSBW) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 8 Salinas CA (KSBW) (720p)
 https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8
-#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="NBC 11 San Jose CA (KNTV) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 11 San Jose CA (KNTV) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="NBC 11 San Jose CA (KNTV) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 11 San Jose CA (KNTV) 
 https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTVHDT1.us" tvg-name="NBC 12 Helena MT (KTVH) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Local News",NBC 12 Helena MT (KTVH) (720p)
 https://apollo.production-public.tubi.io/live/ac-ktvh.m3u8
@@ -542,7 +542,7 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales MX",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canales MX",Azteca 7 (720p)
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (720p) " tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canales MX",Azteca 7 (720p)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Canales MX",Canal 6 CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -645,10 +645,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: INTERNETV DEPORTES" tvg-logo="" group-title="Deportes",MX: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: AYM SPORTS" tvg-logo="" group-title="Deportes",MX: AYM SPORTS
+#EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-name="MX: AYM SPORTS" tvg-logo="" group-title="Deportes",MX: AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: AYM SPORTS" tvg-logo="" group-title="Deportes",MX: AYM SPORTS
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY LA LIGA" tvg-logo="" group-title="Deportes",SKY LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="" group-title="Deportes",FOX DEPORTES
