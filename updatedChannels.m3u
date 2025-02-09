@@ -1,5 +1,4 @@
 #EXTM3U
-###LOCAL NEWS###
 #EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVI ABC 6 News (Philadelphia PA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Local News",WPVI ABC 6 News (Philadelphia PA) (720p)
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 tvg-id="WJBKDT1.us" tvg-name="FOX 2 Detroit MI (WJBK) (720p)" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="Local News",FOX 2 Detroit MI (WJBK) (720p)
@@ -287,7 +286,6 @@ https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 
 
-###ENTERTAINMENT###
 https://livevideo01.wthr.com/hls/live/2013835/elvs/live.m3u8
 #EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Entertainment",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -542,7 +540,6 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 
 
 
-###NOTICIAS MX###
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales MX",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Canales MX",Azteca 7 (720p)
@@ -641,7 +638,7 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 
-### DEPORTES ###
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Deportes Español" tvg-logo="" group-title="Deportes",Fox Deportes Español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX: TUBI FOX SPORTS" tvg-logo="" group-title="Deportes",MX: TUBI FOX SPORTS
@@ -868,7 +865,6 @@ http://181.78.105.146:8800/play/a07h
 https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 
 
-###ENTRETENIMIENTO###
 #EXTINF:-1 tvg-id="UniMasEast.us" tvg-name="UniMás East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Entretenimiento",UniMás East
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision East
@@ -941,7 +937,6 @@ https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
 
 
-###SPORTS###
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"group-title="Sports",FOX Weather
 https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ
