@@ -516,8 +516,10 @@ http://fl2.moveonjoy.com/USA_Network/index.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE 2" tvg-logo="" group-title="Entertainment",WWE 2
 http://fortv.cc:8080/live/5djSbC/538755/11645.ts
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE 2" tvg-logo="" group-title="Entertainment",WWE 2
+http://fortv.cc:8080/live/5djSbC/538755/120828.ts
+#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="PBS Kids" tvg-logo="" group-title="Entertainment",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales MX",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
